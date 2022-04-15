@@ -1,0 +1,203 @@
+<h1>My Genshin Stats</h1>
+
+<h2>Daily Rewards</h2>
+<table>
+    <tr>
+        <td>Total Rewards Claimed</td>
+        <td>{{ reward_info.claimed_rewards }}</td>
+    </tr>
+    <tr>
+        <td>Last Claimed Reward</td>
+        <td>{{ reward.amount }} x {{ reward.name }}</td>
+    </tr>
+</table>
+
+<h2>Stats</h2>
+<table>
+    {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
+    <tr>
+        <td>{{ field }}</td>
+        <td>{{ value }}</td>
+    </tr>
+    {%- endfor -%}
+</table>
+
+<h2>Exploration</h2>
+<table>
+    <tr>
+        {%- for exploration in user.explorations -%}
+        <th>{{ exploration.name }}</th>
+        {%- endfor -%}
+    </tr>
+    <tr>
+        {%- for exploration in user.explorations -%}
+        <td>
+            <p align="center"><img src="{{ exploration.icon }}" width="180"></p>
+        </td>
+        {%- endfor -%}
+    </tr>
+    <tr>
+        {%- for exploration in user.explorations -%}
+        <td>
+            <table>
+                <tr>
+                    <td>Explored</td>
+                    <td>{{ exploration.explored }}%</td>
+                </tr>
+                <tr>
+                    <td>{{ exploration.type }}</td>
+                    <td>{{ exploration.level }}</td>
+                </tr>
+            </table>
+        </td>
+        {%- endfor -%}
+    </tr>
+</table>
+
+{%- if user.teapot -%}
+<h2>Teapot</h2>
+<table>
+    <tr>
+        <td>Level</td>
+        <td>{{ user.teapot.level }}</td>
+    </tr>
+    <tr>
+        <td>Comfort</td>
+        <td>{{ user.teapot.comfort_name }} ({{ user.teapot.comfort }})</td>
+    </tr>
+    <tr>
+        <td>Items</td>
+        <td>{{ user.teapot.items }}</td>
+    </tr>
+    <tr>
+        <td>Visitors</td>
+        <td>{{ user.teapot.visitors }}</td>
+    </tr>
+</table>
+{%- endif -%}
+
+{%- if abyss.floors|length -%}
+<h2>Spiral Abyss</h2>
+<table>
+    <tr>
+        <td>Season</td>
+        <td>{{ abyss.season }}</td>
+    </tr>
+    <tr>
+        <td>Total Battles</td>
+        <td>{{ abyss.total_battles }}</td>
+    </tr>
+    <tr>
+        <td>Total Wins</td>
+        <td>{{ abyss.total_wins }}</td>
+    </tr>
+    <tr>
+        <td>Max Floor</td>
+        <td>{{ abyss.max_floor }}</td>
+    </tr>
+    <tr>
+        <td>Total Stars</td>
+        <td>{{ abyss.total_stars }}</td>
+    </tr>
+    {%- for field, value in abyss.ranks.as_dict(lang=lang).items() -%}
+    <tr>
+        <td>{{ field }}</td>
+        <td>{{ value }}</td>
+    </tr>
+    {%- endfor -%}
+</table>
+{%- endif -%}
+
+<h2>Diary</h2>
+<table>
+    <tr>
+        <td>Primogems earned</td>
+        <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
+    </tr>
+    <tr>
+        <td>Mora earned</td>
+        <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
+    </tr>
+    <tr>
+        <td>Categories</td>
+        <td>
+            {%- for category in diary.data.categories -%}
+            {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
+            {%- endfor -%}
+        </td>
+    </tr>
+</table>
+
+<h2>Characters</h2>
+{%- for character in user.characters -%}
+<h3>{{ character.name }}</h3>
+<table>
+    <tr>
+        <td>
+            <p align="center"><img src="{{ character.icon }}"></p>
+        </td>
+        <td>
+            <p align="center"><img src="{{ character.weapon.icon }}"></p>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tr>
+                    <td>Rarity</td>
+                    <td>{{ character.rarity }}</td>
+                </tr>
+                <tr>
+                    <td>Element</td>
+                    <td>{{ character.element }}</td>
+                </tr>
+                <tr>
+                    <td>Level</td>
+                    <td>{{ character.level }}</td>
+                </tr>
+                <tr>
+                    <td>Friendship</td>
+                    <td>{{ character.friendship }}</td>
+                </tr>
+                <tr>
+                    <td>Constellation</td>
+                    <td>{{ character.constellation }}</td>
+                </tr>
+                <tr>
+                    <td>Artifacts</td>
+                    <td>
+                        {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
+                        {%- for name in sets|unique -%}
+                        {{ sets.count(name) }} x {{ name }}<br>
+                        {%- endfor -%}
+                    </td>
+                </tr>
+                <tr>
+                    <td>Outfits</td>
+                    <td>{{ character.outfits|join(", ", attribute="name") }}</td>
+                </tr>
+            </table>
+        </td>
+        <td>
+            <table>
+                <tr>
+                    <td>Name</td>
+                    <td>{{ character.weapon.name }}</td>
+                </tr>
+                <tr>
+                    <td>Rarity</td>
+                    <td>{{ character.weapon.rarity }}</td>
+                </tr>
+                <tr>
+                    <td>Level</td>
+                    <td>{{ character.weapon.level }}</td>
+                </tr>
+                <tr>
+                    <td>Refinement</td>
+                    <td>{{ character.weapon.refinement }}</td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+</table>
+{%- endfor -%}

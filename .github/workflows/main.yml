@@ -1,0 +1,39 @@
+name: "Daily check and update"
+
+on:
+  schedule:
+    - cron: "0 12 * * *"
+  workflow_dispatch:
+
+jobs:
+  check_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout master
+        uses: actions/checkout@v2
+
+      - name: Set up python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.9
+
+      - name: Install requirements
+        run: |
+          pip install -r requirements.txt
+      - name: Run main.py
+        env:
+          COOKIES: ${{ secrets.COOKIES }}
+        run: |
+          python main.py -o README.md
+      - name: Format with prettier
+        run: |
+          npx prettier README.md --write --parser html
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.name "Noël"
+          git config --global user.emai "noel@github.com"
+          git add README.md
+          git commit -m "Updated stats" || exit 0
+          git push

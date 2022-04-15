@@ -1,0 +1,27 @@
+stats.html
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyCharm/IntelliJ-generated files
+*.iml
+.idea/
+
+# Visual Studio Code-generated files
+.settings/
+.project
+.vscode/
+.vs/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
