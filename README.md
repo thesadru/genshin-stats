@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>481</td>
+    <td>488</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -71,6 +71,8 @@
 <h2>Exploration</h2>
 <table>
   <tr>
+    <th>The Chasm: Underground Mines</th>
+    <th>The Chasm</th>
     <th>Enkanomiya</th>
     <th>Inazuma</th>
     <th>Dragonspine</th>
@@ -78,6 +80,22 @@
     <th>Mondstadt</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
+          width="180"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -120,6 +138,30 @@
     </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>25.2%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>42.4%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -194,7 +236,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>684</td>
+    <td>710</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -205,17 +247,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2045 (rate -57)</td>
+    <td>2795 (rate -41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1689950 (rate -61)</td>
+    <td>2318417 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 980 (48%)<br />Daily Activity: 840 (42%)<br />Mail: 120 (6%)<br />Adventure:
-      75 (3%)<br />Quests: 30 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 1290 (47%)<br />Daily Activity: 1200 (43%)<br />Mail: 140 (5%)<br />Quests:
+      90 (3%)<br />Adventure: 75 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -257,7 +299,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -738,20 +780,20 @@
     </td>
   </tr>
 </table>
-<h3>Jean</h3>
+<h3>Venti</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
         />
       </p>
     </td>
@@ -769,11 +811,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -781,11 +823,11 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
+          <td>4 x Viridescent Venerer<br />1 x Blizzard Strayer<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
-          <td>Gunnhildr's Legacy</td>
+          <td></td>
         </tr>
       </table>
     </td>
@@ -793,7 +835,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Prototype Rancour</td>
+          <td>The Stringless</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -801,11 +843,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>70</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1072,7 +1114,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1099,6 +1141,79 @@
         <tr>
           <td>Level</td>
           <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Jean</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>7</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>Gunnhildr's Legacy</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Prototype Rancour</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1398,79 +1513,6 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Venti</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Blizzard Strayer<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>The Stringless</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
         </tr>
       </table>
     </td>
