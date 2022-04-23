@@ -247,16 +247,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2795 (rate -41)</td>
+    <td>2855 (rate -40)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2318417 (rate -47)</td>
+    <td>2361792 (rate -46)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1290 (47%)<br />Daily Activity: 1200 (43%)<br />Mail: 140 (5%)<br />Quests:
+      Events: 1290 (46%)<br />Daily Activity: 1260 (45%)<br />Mail: 140 (4%)<br />Quests:
       90 (3%)<br />Adventure: 75 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
