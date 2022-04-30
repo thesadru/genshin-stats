@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>494</td>
+    <td>495</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1190</td>
+    <td>1191</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -247,17 +247,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3445 (rate -28)</td>
+    <td>3527 (rate -26)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2804060 (rate -36)</td>
+    <td>2844486 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1620 (48%)<br />Events: 1520 (44%)<br />Mail: 140 (4%)<br />Quests:
-      90 (2%)<br />Adventure: 75 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Daily Activity: 1680 (48%)<br />Events: 1520 (44%)<br />Mail: 160 (4%)<br />Quests:
+      90 (2%)<br />Adventure: 77 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
