@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>496</td>
+    <td>497</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -71,15 +71,39 @@
 <h2>Exploration</h2>
 <table>
   <tr>
+    <th>The Chasm: Underground Mines</th>
+    <th>The Chasm</th>
+    <th>Enkanomiya</th>
     <th>Inazuma</th>
     <th>Dragonspine</th>
     <th>Liyue</th>
     <th>Mondstadt</th>
-    <th></th>
-    <th></th>
-    <th></th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
+          width="180"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
+          width="180"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -112,22 +136,49 @@
         />
       </p>
     </td>
-    <td>
-      <p align="center"><img src="" width="180" /></p>
-    </td>
-    <td>
-      <p align="center"><img src="" width="180" /></p>
-    </td>
-    <td>
-      <p align="center"><img src="" width="180" /></p>
-    </td>
   </tr>
   <tr>
     <td>
       <table>
         <tr>
           <td>Explored</td>
-          <td>98.1%</td>
+          <td>25.2%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>42.4%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>67.9%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>96.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -168,42 +219,6 @@
         <tr>
           <td>Reputation</td>
           <td>8</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>42.4%</td>
-        </tr>
-        <tr>
-          <td>Offering</td>
-          <td>0</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>67.9%</td>
-        </tr>
-        <tr>
-          <td>Offering</td>
-          <td>0</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>25.2%</td>
-        </tr>
-        <tr>
-          <td>Offering</td>
-          <td>0</td>
         </tr>
       </table>
     </td>
