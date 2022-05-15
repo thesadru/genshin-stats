@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x 冒險家的經驗</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>446</td>
+    <td>452</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>508</td>
+    <td>509</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,23 +44,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1191</td>
+    <td>1222</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>933</td>
+    <td>943</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>266</td>
+    <td>270</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>107</td>
+    <td>108</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>42</td>
+    <td>44</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -142,7 +142,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>25.2%</td>
+          <td>32.1%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -154,7 +154,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>42.4%</td>
+          <td>48.6%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -190,7 +190,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>96.1%</td>
+          <td>100.0%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -247,17 +247,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1650 (rate -54)</td>
+    <td>1775 (rate -50)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>938353 (rate -67)</td>
+    <td>1072179 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 700 (43%)<br />Events: 510 (31%)<br />Mail: 440 (26%)<br />Adventure:
-      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Daily Activity: 700 (40%)<br />Events: 630 (36%)<br />Mail: 440 (24%)<br />Adventure:
+      5 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
