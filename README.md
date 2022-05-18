@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>453</td>
+    <td>464</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>510</td>
+    <td>512</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,19 +44,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1260</td>
+    <td>1305</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>957</td>
+    <td>978</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>272</td>
+    <td>278</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>109</td>
+    <td>112</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -142,11 +142,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>33.0%</td>
+          <td>62.2%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>1</td>
+          <td>6</td>
         </tr>
       </table>
     </td>
@@ -158,7 +158,7 @@
         </tr>
         <tr>
           <td>Offering</td>
-          <td>1</td>
+          <td>6</td>
         </tr>
       </table>
     </td>
@@ -166,7 +166,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>84.6%</td>
+          <td>90.1%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -178,7 +178,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>96.0%</td>
+          <td>97.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -247,37 +247,37 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2269 (rate -36)</td>
+    <td>2957 (rate -17)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1345075 (rate -53)</td>
+    <td>2028745 (rate -29)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 820 (37%)<br />Events: 690 (30%)<br />Mail: 440 (19%)<br />Adventure:
-      319 (14%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Daily Activity: 880 (30%)<br />Events: 750 (26%)<br />Adventure: 696
+      (24%)<br />Mail: 440 (14%)<br />Quests: 190 (6%)<br />Other: 1 (0%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
 
 <h2>Characters</h2>
-<h3>Hu Tao</h3>
+<h3>Xiao</h3>
 <table>
   <tr>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         />
       </p>
     </td>
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Proto.png"
         />
       </p>
     </td>
@@ -291,7 +291,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Pyro</td>
+          <td>Anemo</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -299,7 +299,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -307,7 +307,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Crimson Witch of Flames<br />1 x Thundering Fury<br /></td>
+          <td>
+            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x Maiden
+            Beloved<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -319,7 +322,82 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dragon's Bane</td>
+          <td>Prototype Starglitter</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Zhongli</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Exotic.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Geo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            4 x Tenacity of the Millelith<br />1 x Bloodstained Chivalry<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Crescent Pike</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -331,7 +409,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -556,157 +634,6 @@
     </td>
   </tr>
 </table>
-<h3>Xiao</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Proto.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x Maiden
-            Beloved<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Prototype Starglitter</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Zhongli</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Exotic.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Geo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>10</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            4 x Tenacity of the Millelith<br />1 x Bloodstained Chivalry<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Crescent Pike</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Raiden Shogun</h3>
 <table>
   <tr>
@@ -780,79 +707,6 @@
     </td>
   </tr>
 </table>
-<h3>Venti</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Blizzard Strayer<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>The Stringless</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Bennett</h3>
 <table>
   <tr>
@@ -921,6 +775,79 @@
         <tr>
           <td>Refinement</td>
           <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Hu Tao</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Pyro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>9</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Crimson Witch of Flames<br />1 x Thundering Fury<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dragon's Bane</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -1075,6 +1002,79 @@
     </td>
   </tr>
 </table>
+<h3>Jean</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>Gunnhildr's Legacy</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Prototype Rancour</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Xingqiu</h3>
 <table>
   <tr>
@@ -1141,79 +1141,6 @@
         <tr>
           <td>Level</td>
           <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Jean</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>Gunnhildr's Legacy</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Prototype Rancour</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1404,7 +1331,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1513,6 +1440,79 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Venti</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Blizzard Strayer<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>The Stringless</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
