@@ -99,10 +99,14 @@
         <td>Total Stars</td>
         <td>{{ abyss.total_stars }}</td>
     </tr>
-    {%- for field, value in abyss.ranks.as_dict(lang=lang).items() -%}
+    {%- for field, characters in abyss.ranks.as_dict(lang=lang).items() -%}
     <tr>
         <td>{{ field }}</td>
-        <td>{{ value }}</td>
+        <td>
+            {%- for character in characters -%}
+            <img src="{{ character.icon }}" , height="18"> {{ character.name }} ({{ character.value }})<br>
+            {%- endfor -%}
+        </td>
     </tr>
     {%- endfor -%}
 </table>
