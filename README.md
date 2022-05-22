@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>470</td>
+    <td>478</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>514</td>
+    <td>515</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,19 +44,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1341</td>
+    <td>1385</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>990</td>
+    <td>1012</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>281</td>
+    <td>290</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>114</td>
+    <td>116</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -142,11 +142,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>69.7%</td>
+          <td>96.9%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>6</td>
+          <td>9</td>
         </tr>
       </table>
     </td>
@@ -154,11 +154,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>48.6%</td>
+          <td>80.5%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>6</td>
+          <td>9</td>
         </tr>
       </table>
     </td>
@@ -269,26 +269,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-        ,
-        height="18"
-      />
-      Diona (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
         ,
         height="18"
       />
-      Venti (12)<br /><img
+      Diona (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Xiao (12)<br />
+      Xiao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        ,
+        height="18"
+      />
+      Venti (12)<br />
     </td>
   </tr>
   <tr>
@@ -351,18 +351,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4982 (rate 38)</td>
+    <td>5682 (rate 58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3479671 (rate 20)</td>
+    <td>4082579 (rate 41)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1160 (24%)<br />Daily Activity: 1060 (22%)<br />Adventure: 941
-      (19%)<br />Events: 930 (18%)<br />Spiral Abyss: 550 (11%)<br />Quests: 340
-      (6%)<br />Other: 1 (0%)<br />
+      Adventure: 1299 (23%)<br />Mail: 1160 (21%)<br />Daily Activity: 1120
+      (20%)<br />Events: 930 (17%)<br />Quests: 620 (10%)<br />Spiral Abyss: 550
+      (9%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
 </table>
