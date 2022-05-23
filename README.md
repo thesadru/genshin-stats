@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>478</td>
+    <td>484</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>515</td>
+    <td>516</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,19 +44,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1385</td>
+    <td>1389</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1012</td>
+    <td>1016</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>290</td>
+    <td>294</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>116</td>
+    <td>118</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -142,11 +142,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>96.9%</td>
+          <td>100.0%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -154,11 +154,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>80.5%</td>
+          <td>85.8%</td>
         </tr>
         <tr>
           <td>Offering</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -166,7 +166,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>90.1%</td>
+          <td>91.1%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -269,26 +269,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
         ,
         height="18"
       />
       Diona (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Xiao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+      Zhongli (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Venti (12)<br />
+      Raiden Shogun (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (12)<br />
     </td>
   </tr>
   <tr>
@@ -351,17 +351,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5682 (rate 58)</td>
+    <td>6065 (rate 69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4082579 (rate 41)</td>
+    <td>4346785 (rate 50)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1299 (23%)<br />Mail: 1160 (21%)<br />Daily Activity: 1120
-      (20%)<br />Events: 930 (17%)<br />Quests: 620 (10%)<br />Spiral Abyss: 550
+      Adventure: 1492 (25%)<br />Daily Activity: 1180 (20%)<br />Mail: 1160
+      (19%)<br />Events: 930 (15%)<br />Quests: 750 (12%)<br />Spiral Abyss: 550
       (9%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
