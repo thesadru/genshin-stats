@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>484</td>
+    <td>485</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>517</td>
+    <td>518</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,11 +44,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1391</td>
+    <td>1396</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1016</td>
+    <td>1018</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -202,7 +202,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>94.1%</td>
+          <td>94.5%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -274,11 +274,11 @@
         height="18"
       />
       Venti (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
         ,
         height="18"
       />
-      Xiao (12)<br /><img
+      Diona (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -351,17 +351,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6189 (rate 72)</td>
+    <td>6260 (rate 74)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4425161 (rate 53)</td>
+    <td>4479514 (rate 55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 1496 (25%)<br />Daily Activity: 1240 (21%)<br />Mail: 1160
-      (18%)<br />Events: 930 (15%)<br />Quests: 810 (13%)<br />Spiral Abyss: 550
+      Adventure: 1507 (25%)<br />Daily Activity: 1300 (21%)<br />Mail: 1160
+      (19%)<br />Events: 930 (15%)<br />Quests: 810 (12%)<br />Spiral Abyss: 550
       (8%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
