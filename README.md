@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -284,11 +284,11 @@
         height="18"
       />
       Mona (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Xiao (12)<br />
+      Zhongli (12)<br />
     </td>
   </tr>
   <tr>
@@ -351,18 +351,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6844 (rate 90)</td>
+    <td>6904 (rate 92)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4737652 (rate 64)</td>
+    <td>4782429 (rate 65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1560 (23%)<br />Adventure: 1511 (23%)<br />Daily Activity: 1480
-      (22%)<br />Events: 930 (13%)<br />Quests: 810 (11%)<br />Spiral Abyss: 550
-      (8%)<br />Other: 3 (0%)<br />
+      Mail: 1560 (23%)<br />Daily Activity: 1540 (23%)<br />Adventure: 1511
+      (22%)<br />Events: 930 (14%)<br />Quests: 810 (11%)<br />Spiral Abyss: 550
+      (7%)<br />Other: 3 (0%)<br />
     </td>
   </tr>
 </table>
