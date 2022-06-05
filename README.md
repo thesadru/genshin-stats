@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>485</td>
+    <td>488</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>522</td>
+    <td>523</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1018</td>
+    <td>1019</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>294</td>
+    <td>296</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -236,7 +236,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>711</td>
+    <td>712</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -269,26 +269,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Mona (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (12)<br /><img
+      Venti (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
         ,
         height="18"
       />
-      Venti (12)<br />
+      Diona (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (12)<br />
     </td>
   </tr>
   <tr>
@@ -351,18 +351,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>912 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>482595 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 400 (44%)<br />Mail: 380 (42%)<br />Quests: 60 (7%)<br />Daily
+      Activity: 60 (6%)<br />Adventure: 12 (1%)<br />Spiral Abyss: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1500,7 +1500,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td></td>
+          <td>Electro</td>
         </tr>
         <tr>
           <td>Level</td>
