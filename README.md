@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>524</td>
+    <td>525</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>169</td>
+    <td>190</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -64,46 +64,22 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>33</td>
+    <td>35</td>
   </tr>
 </table>
 
 <h2>Exploration</h2>
 <table>
   <tr>
-    <th>The Chasm: Underground Mines</th>
-    <th>The Chasm</th>
-    <th>Enkanomiya</th>
     <th>Inazuma</th>
     <th>Dragonspine</th>
     <th>Liyue</th>
     <th>Mondstadt</th>
+    <th></th>
+    <th></th>
+    <th></th>
   </tr>
   <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
-          width="180"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_ChasmsMaw.png"
-          width="180"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Enkanomiya.png"
-          width="180"
-        />
-      </p>
-    </td>
     <td>
       <p align="center">
         <img
@@ -136,49 +112,22 @@
         />
       </p>
     </td>
+    <td>
+      <p align="center"><img src="" width="180" /></p>
+    </td>
+    <td>
+      <p align="center"><img src="" width="180" /></p>
+    </td>
+    <td>
+      <p align="center"><img src="" width="180" /></p>
+    </td>
   </tr>
   <tr>
     <td>
       <table>
         <tr>
           <td>Explored</td>
-          <td>100.0%</td>
-        </tr>
-        <tr>
-          <td>Offering</td>
-          <td>10</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>85.8%</td>
-        </tr>
-        <tr>
-          <td>Offering</td>
-          <td>10</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>91.1%</td>
-        </tr>
-        <tr>
-          <td>Offering</td>
-          <td>0</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Explored</td>
-          <td>98.0%</td>
+          <td>99.8%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -219,6 +168,42 @@
         <tr>
           <td>Reputation</td>
           <td>8</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>85.8%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>91.1%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>100.0%</td>
+        </tr>
+        <tr>
+          <td>Offering</td>
+          <td>0</td>
         </tr>
       </table>
     </td>
@@ -351,17 +336,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>992 (rate -85)</td>
+    <td>1232 (rate -82)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>527470 (rate -88)</td>
+    <td>690720 (rate -85)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 400 (41%)<br />Mail: 380 (38%)<br />Daily Activity: 120 (12%)<br />Quests:
-      60 (6%)<br />Adventure: 32 (3%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 580 (48%)<br />Mail: 380 (31%)<br />Daily Activity: 180 (15%)<br />Quests:
+      60 (4%)<br />Adventure: 32 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
