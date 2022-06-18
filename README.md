@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>529</td>
+    <td>530</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -243,22 +243,126 @@
     <td>6</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>48</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>11-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>26</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        ,
+        height="18"
+      />
+      Venti (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (9)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (34)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (93680)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (5058)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (29)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (64)<br />
+    </td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1832 (rate -73)</td>
+    <td>2292 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1066890 (rate -77)</td>
+    <td>1496565 (rate -68)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 820 (45%)<br />Mail: 500 (28%)<br />Daily Activity: 420 (23%)<br />Quests:
-      60 (3%)<br />Adventure: 32 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 820 (36%)<br />Mail: 500 (22%)<br />Daily Activity: 480 (21%)<br />Spiral
+      Abyss: 400 (18%)<br />Quests: 60 (2%)<br />Adventure: 32 (1%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
