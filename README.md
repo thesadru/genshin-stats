@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>533</td>
+    <td>534</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -269,26 +269,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
-        ,
-        height="18"
-      />
-      Venti (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (9)<br />
     </td>
   </tr>
   <tr>
@@ -351,16 +351,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2672 (rate -61)</td>
+    <td>2752 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1751042 (rate -63)</td>
+    <td>1803775 (rate -62)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1000 (38%)<br />Daily Activity: 660 (25%)<br />Mail: 520 (20%)<br />Spiral
+      Events: 1020 (38%)<br />Daily Activity: 720 (27%)<br />Mail: 520 (18%)<br />Spiral
       Abyss: 400 (14%)<br />Quests: 60 (2%)<br />Adventure: 32 (1%)<br />Other:
       0 (0%)<br />
     </td>
