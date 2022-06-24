@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>535</td>
+    <td>536</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -269,16 +269,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
         ,
         height="18"
       />
-      Ganyu (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
-        ,
-        height="18"
-      />
-      Mona (9)<br /><img
+      Diona (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
@@ -288,7 +283,12 @@
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -351,17 +351,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2892 (rate -58)</td>
+    <td>3032 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1889290 (rate -60)</td>
+    <td>1974155 (rate -58)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1100 (39%)<br />Daily Activity: 780 (27%)<br />Mail: 520 (18%)<br />Spiral
-      Abyss: 400 (13%)<br />Quests: 60 (2%)<br />Adventure: 32 (1%)<br />Other:
+      Events: 1180 (39%)<br />Daily Activity: 840 (28%)<br />Mail: 520 (18%)<br />Spiral
+      Abyss: 400 (13%)<br />Quests: 60 (1%)<br />Adventure: 32 (1%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
