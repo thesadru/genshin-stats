@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>536</td>
+    <td>537</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>Electroculi</td>
-    <td>180</td>
+    <td>181</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
@@ -269,26 +269,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Diona (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Xiao (9)<br /><img
+      Mona (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br />
+      Ganyu (9)<br />
     </td>
   </tr>
   <tr>
@@ -351,17 +351,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3032 (rate -56)</td>
+    <td>3172 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1974155 (rate -58)</td>
+    <td>2060599 (rate -56)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1180 (39%)<br />Daily Activity: 840 (28%)<br />Mail: 520 (18%)<br />Spiral
-      Abyss: 400 (13%)<br />Quests: 60 (1%)<br />Adventure: 32 (1%)<br />Other:
+      Events: 1260 (40%)<br />Daily Activity: 900 (29%)<br />Mail: 520 (17%)<br />Spiral
+      Abyss: 400 (12%)<br />Quests: 60 (1%)<br />Adventure: 32 (1%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
