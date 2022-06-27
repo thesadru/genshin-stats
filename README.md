@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -274,6 +274,11 @@
         height="18"
       />
       Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        ,
+        height="18"
+      />
+      Diona (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
@@ -283,12 +288,7 @@
         ,
         height="18"
       />
-      Xiao (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br />
+      Xiao (9)<br />
     </td>
   </tr>
   <tr>
