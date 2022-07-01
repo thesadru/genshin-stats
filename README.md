@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -274,6 +274,11 @@
         height="18"
       />
       Zhongli (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -283,12 +288,7 @@
         ,
         height="18"
       />
-      Venti (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-        ,
-        height="18"
-      />
-      Diona (9)<br />
+      Venti (9)<br />
     </td>
   </tr>
   <tr>
@@ -351,18 +351,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3232 (rate -53)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2105474 (rate -55)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1260 (39%)<br />Daily Activity: 960 (30%)<br />Mail: 520 (17%)<br />Spiral
-      Abyss: 400 (13%)<br />Quests: 60 (1%)<br />Adventure: 32 (0%)<br />Other:
-      0 (0%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
