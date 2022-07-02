@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>540</td>
+    <td>541</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -269,16 +269,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -288,7 +278,17 @@
         ,
         height="18"
       />
-      Venti (9)<br />
+      Venti (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        ,
+        height="18"
+      />
+      Diona (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -351,18 +351,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>140 (rate -95)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>102139 (rate -95)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Events: 80 (58%)<br />Daily Activity: 60 (42%)<br />Adventure: 0 (0%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
