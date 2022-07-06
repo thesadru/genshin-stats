@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>543</td>
+    <td>544</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -351,16 +351,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>360 (rate -88)</td>
+    <td>600 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>217651 (rate -89)</td>
+    <td>439473 (rate -79)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 180 (50%)<br />Daily Activity: 180 (50%)<br />Adventure: 0 (0%)<br />Quests:
+      Events: 360 (60%)<br />Daily Activity: 240 (40%)<br />Adventure: 0 (0%)<br />Quests:
       0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
