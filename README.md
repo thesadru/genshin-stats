@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>544</td>
+    <td>545</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1399</td>
+    <td>1403</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -236,7 +236,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>712</td>
+    <td>714</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -351,17 +351,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>600 (rate -81)</td>
+    <td>740 (rate -77)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>439473 (rate -79)</td>
+    <td>519837 (rate -75)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 360 (60%)<br />Daily Activity: 240 (40%)<br />Adventure: 0 (0%)<br />Quests:
-      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Events: 420 (57%)<br />Daily Activity: 300 (41%)<br />Mail: 20 (2%)<br />Adventure:
+      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1178,6 +1178,81 @@
     </td>
   </tr>
 </table>
+<h3>Xingqiu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>9</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            4 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Jean</h3>
 <table>
   <tr>
@@ -1242,81 +1317,6 @@
         <tr>
           <td>Level</td>
           <td>70</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Xingqiu</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>8</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            4 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sacrificial Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1729,7 +1729,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2313,7 +2313,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
