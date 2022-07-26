@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x 大英雄的經驗</td>
+    <td>3 x 杏仁豆腐</td>
   </tr>
 </table>
 
