@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x 鳥肉のスイートフラワー漬け焼き</td>
+    <td>2 x 冒険家の経験</td>
   </tr>
 </table>
 
