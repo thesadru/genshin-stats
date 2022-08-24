@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -78,6 +78,7 @@
     <th>Dragonspine</th>
     <th>Liyue</th>
     <th>Mondstadt</th>
+    <th>Sumeru</th>
   </tr>
   <tr>
     <td>
@@ -132,6 +133,14 @@
       <p align="center">
         <img
           src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Mengde.png"
+          width="180"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/city_icon/UI_ChapterIcon_Xumi.png"
           width="180"
         />
       </p>
@@ -219,6 +228,18 @@
         <tr>
           <td>Reputation</td>
           <td>8</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>0.0%</td>
+        </tr>
+        <tr>
+          <td>Reputation</td>
+          <td>0</td>
         </tr>
       </table>
     </td>
