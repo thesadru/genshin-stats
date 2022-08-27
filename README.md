@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>10 x Primogem</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -37,6 +37,10 @@
   <tr>
     <td>Geoculi</td>
     <td>131</td>
+  </tr>
+  <tr>
+    <td>dendroculi</td>
+    <td>0</td>
   </tr>
   <tr>
     <td>Electroculi</td>
