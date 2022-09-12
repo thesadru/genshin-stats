@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>545</td>
+    <td>546</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -243,7 +243,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
