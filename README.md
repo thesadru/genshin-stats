@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>496</td>
+    <td>497</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>557</td>
+    <td>558</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3190 (rate 81)</td>
+    <td>3470 (rate 97)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2388536 (rate 4648)</td>
+    <td>2753193 (rate 5373)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1290 (41%)<br />Events: 860 (27%)<br />Daily Activity: 540 (17%)<br />Adventure:
-      247 (8%)<br />Quests: 240 (7%)<br />Other: 13 (0%)<br />Spiral Abyss: 0
+      Mail: 1290 (38%)<br />Events: 1040 (30%)<br />Daily Activity: 600 (18%)<br />Quests:
+      270 (7%)<br />Adventure: 257 (7%)<br />Other: 13 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1248,6 +1248,79 @@
     </td>
   </tr>
 </table>
+<h3>Diona</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Noblesse Oblige<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Bow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Qiqi</h3>
 <table>
   <tr>
@@ -1304,79 +1377,6 @@
         <tr>
           <td>Name</td>
           <td>Favonius Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Diona</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>5 x Noblesse Oblige<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sacrificial Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
