@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>497</td>
+    <td>501</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>558</td>
+    <td>559</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3470 (rate 97)</td>
+    <td>3645 (rate 107)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2753193 (rate 5373)</td>
+    <td>2968355 (rate 5801)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1290 (38%)<br />Events: 1040 (30%)<br />Daily Activity: 600 (18%)<br />Quests:
-      270 (7%)<br />Adventure: 257 (7%)<br />Other: 13 (0%)<br />Spiral Abyss: 0
+      Mail: 1290 (36%)<br />Events: 1040 (29%)<br />Daily Activity: 660 (19%)<br />Quests:
+      360 (9%)<br />Adventure: 282 (7%)<br />Other: 13 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1433,11 +1433,11 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Emblem of Severed Fate<br /></td>
+          <td>5 x Emblem of Severed Fate<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
