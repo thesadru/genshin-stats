@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>501</td>
+    <td>510</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>560</td>
+    <td>562</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>210</td>
+    <td>214</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>15</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1444</td>
+    <td>1476</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1029</td>
+    <td>1034</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>297</td>
+    <td>299</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,11 +64,11 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>44</td>
+    <td>47</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>35</td>
+    <td>36</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>4.0%</td>
+          <td>7.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -203,7 +203,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>98.0%</td>
+          <td>99.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,18 +272,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3706 (rate 110)</td>
+    <td>4099 (rate 132)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3014149 (rate 5892)</td>
+    <td>3473620 (rate 6805)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1290 (35%)<br />Events: 1040 (29%)<br />Daily Activity: 720 (20%)<br />Quests:
-      360 (9%)<br />Adventure: 282 (7%)<br />Other: 14 (0%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Mail: 1290 (32%)<br />Events: 1040 (26%)<br />Daily Activity: 780 (20%)<br />Quests:
+      520 (12%)<br />Adventure: 445 (10%)<br />Other: 24 (0%)<br />Spiral Abyss:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1261,7 +1261,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
         />
       </p>
     </td>
@@ -1303,7 +1303,7 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Sacrificial Bow</td>
+          <td>Fading Twilight</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -1311,11 +1311,11 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>60</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -2200,6 +2200,79 @@
     </td>
   </tr>
 </table>
+<h3>Collei</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fossil.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Noblesse Oblige<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Bow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Barbara</h3>
 <table>
   <tr>
@@ -2235,7 +2308,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2913,79 +2986,6 @@
         <tr>
           <td>Name</td>
           <td>Dull Blade</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Collei</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Collei.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Dendro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Hunter's Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
