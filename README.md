@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>510</td>
+    <td>512</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>214</td>
+    <td>215</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>22</td>
+    <td>32</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1476</td>
+    <td>1493</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1034</td>
+    <td>1044</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>299</td>
+    <td>305</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>119</td>
+    <td>120</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>47</td>
+    <td>49</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>7.0%</td>
+          <td>9.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -227,7 +227,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>95.9%</td>
+          <td>96.1%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -257,11 +257,11 @@
   </tr>
   <tr>
     <td>Comfort</td>
-    <td>Fit for a King (21220)</td>
+    <td>Fit for a King (21700)</td>
   </tr>
   <tr>
     <td>Items</td>
-    <td>731</td>
+    <td>765</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4099 (rate 132)</td>
+    <td>4521 (rate 156)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3473620 (rate 6805)</td>
+    <td>3944876 (rate 7742)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1290 (32%)<br />Events: 1040 (26%)<br />Daily Activity: 780 (20%)<br />Quests:
-      520 (12%)<br />Adventure: 445 (10%)<br />Other: 24 (0%)<br />Spiral Abyss:
+      Mail: 1290 (29%)<br />Events: 1060 (24%)<br />Daily Activity: 840 (19%)<br />Quests:
+      660 (14%)<br />Adventure: 643 (14%)<br />Other: 28 (0%)<br />Spiral Abyss:
       0 (0%)<br />
     </td>
   </tr>
@@ -840,7 +840,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
