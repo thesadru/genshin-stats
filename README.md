@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>520</td>
+    <td>524</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>566</td>
+    <td>567</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>233</td>
+    <td>237</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>67</td>
+    <td>77</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,27 +48,27 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1569</td>
+    <td>1613</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1068</td>
+    <td>1087</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>309</td>
+    <td>313</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>123</td>
+    <td>124</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>57</td>
+    <td>60</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>41</td>
+    <td>42</td>
   </tr>
 </table>
 
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>20.0%</td>
+          <td>24.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -179,7 +179,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>89.3%</td>
+          <td>95.5%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -227,7 +227,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>96.1%</td>
+          <td>96.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6284 (rate 257)</td>
+    <td>6790 (rate 285)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4987132 (rate 9814)</td>
+    <td>5348647 (rate 10533)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1500 (24%)<br />Adventure: 1345 (22%)<br />Mail: 1310 (21%)<br />Daily
-      Activity: 1080 (17%)<br />Quests: 1010 (16%)<br />Other: 39 (0%)<br />Spiral
+      Adventure: 1698 (26%)<br />Events: 1500 (23%)<br />Mail: 1310 (19%)<br />Daily
+      Activity: 1140 (16%)<br />Quests: 1100 (16%)<br />Other: 42 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -868,7 +868,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>40</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -1908,6 +1908,79 @@
     </td>
   </tr>
 </table>
+<h3>Cyno</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Lance</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Amber</h3>
 <table>
   <tr>
@@ -2041,79 +2114,6 @@
         <tr>
           <td>Rarity</td>
           <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Cyno</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Zephyrus.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Lance</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -2454,7 +2454,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2673,7 +2673,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
