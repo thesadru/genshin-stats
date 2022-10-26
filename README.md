@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>531</td>
+    <td>535</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>570</td>
+    <td>571</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>87</td>
+    <td>92</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1639</td>
+    <td>1662</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1097</td>
+    <td>1113</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>316</td>
+    <td>320</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>126</td>
+    <td>128</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>66</td>
+    <td>69</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>28.0%</td>
+          <td>31.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>8418 (rate 378)</td>
+    <td>9023 (rate 412)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6566040 (rate 12953)</td>
+    <td>7012777 (rate 13841)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1960 (24%)<br />Adventure: 1945 (24%)<br />Mail: 1610 (19%)<br />Quests:
-      1540 (18%)<br />Daily Activity: 1320 (15%)<br />Other: 43 (0%)<br />Spiral
+      Adventure: 2209 (25%)<br />Events: 2200 (25%)<br />Mail: 1610 (18%)<br />Quests:
+      1580 (17%)<br />Daily Activity: 1380 (15%)<br />Other: 44 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
