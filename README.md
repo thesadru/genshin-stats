@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>571</td>
+    <td>572</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>92</td>
+    <td>93</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1662</td>
+    <td>1671</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1113</td>
+    <td>1117</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9023 (rate 412)</td>
+    <td>9176 (rate 421)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7012777 (rate 13841)</td>
+    <td>7118648 (rate 14052)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2209 (25%)<br />Events: 2200 (25%)<br />Mail: 1610 (18%)<br />Quests:
-      1580 (17%)<br />Daily Activity: 1380 (15%)<br />Other: 44 (0%)<br />Spiral
+      Events: 2260 (25%)<br />Adventure: 2242 (25%)<br />Mail: 1610 (18%)<br />Quests:
+      1580 (17%)<br />Daily Activity: 1440 (15%)<br />Other: 44 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
