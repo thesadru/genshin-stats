@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -16,19 +16,19 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>535</td>
+    <td>540</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>572</td>
+    <td>573</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>38</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>241</td>
+    <td>242</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>93</td>
+    <td>99</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,23 +48,23 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1671</td>
+    <td>1694</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1117</td>
+    <td>1125</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>320</td>
+    <td>324</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>128</td>
+    <td>130</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>69</td>
+    <td>73</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>31.0%</td>
+          <td>35.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>765</td>
+    <td>766</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>9176 (rate 421)</td>
+    <td>9652 (rate 448)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>7118648 (rate 14052)</td>
+    <td>8227679 (rate 16257)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 2260 (25%)<br />Adventure: 2242 (25%)<br />Mail: 1610 (18%)<br />Quests:
-      1580 (17%)<br />Daily Activity: 1440 (15%)<br />Other: 44 (0%)<br />Spiral
+      Adventure: 2538 (27%)<br />Events: 2320 (25%)<br />Quests: 1640 (17%)<br />Mail:
+      1610 (16%)<br />Daily Activity: 1500 (15%)<br />Other: 44 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -990,7 +990,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1579,7 +1579,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1720,7 +1720,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>70</td>
         </tr>
         <tr>
           <td>Friendship</td>
@@ -1972,6 +1972,79 @@
         <tr>
           <td>Level</td>
           <td>80</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Keqing</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Keqing.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Blunt.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>50</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dull Blade</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2531,7 +2604,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
