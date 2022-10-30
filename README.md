@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>541</td>
+    <td>543</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>574</td>
+    <td>576</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>99</td>
+    <td>102</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1694</td>
+    <td>1712</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1126</td>
+    <td>1135</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>324</td>
+    <td>330</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>74</td>
+    <td>76</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>35.0%</td>
+          <td>37.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
       </table>
     </td>
@@ -227,7 +227,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>96.3%</td>
+          <td>97.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10027 (rate 469)</td>
+    <td>10124 (rate 475)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8524736 (rate 16847)</td>
+    <td>8642728 (rate 17082)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2553 (26%)<br />Events: 2320 (24%)<br />Quests: 1640 (17%)<br />Mail:
-      1610 (16%)<br />Daily Activity: 1560 (15%)<br />Spiral Abyss: 300 (2%)<br />Other:
+      Adventure: 2590 (26%)<br />Events: 2320 (23%)<br />Quests: 1640 (17%)<br />Daily
+      Activity: 1620 (17%)<br />Mail: 1610 (15%)<br />Spiral Abyss: 300 (2%)<br />Other:
       44 (0%)<br />
     </td>
   </tr>
@@ -944,7 +944,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1755,7 +1755,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
