@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>543</td>
+    <td>544</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>576</td>
+    <td>577</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -276,44 +276,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>6</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>5</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>10-3</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>18</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Raiden Shogun (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
-        ,
-        height="18"
-      />
-      Venti (6)<br /><img
+      Zhongli (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Mona (6)<br />
+      Mona (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -324,7 +324,7 @@
         ,
         height="18"
       />
-      Ganyu (43)<br />
+      Ganyu (81)<br />
     </td>
   </tr>
   <tr>
@@ -335,18 +335,18 @@
         ,
         height="18"
       />
-      Raiden Shogun (66676)<br />
+      Raiden Shogun (146065)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Yoimiya (11318)<br />
+      Ganyu (88444)<br />
     </td>
   </tr>
   <tr>
@@ -357,18 +357,18 @@
         ,
         height="18"
       />
-      Zhongli (9)<br />
+      Zhongli (24)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Raiden Shogun (14)<br />
+      Xiao (67)<br />
     </td>
   </tr>
 </table>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10124 (rate 475)</td>
+    <td>10614 (rate 503)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>8642728 (rate 17082)</td>
+    <td>9237835 (rate 18265)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2590 (26%)<br />Events: 2320 (23%)<br />Quests: 1640 (17%)<br />Daily
-      Activity: 1620 (17%)<br />Mail: 1610 (15%)<br />Spiral Abyss: 300 (2%)<br />Other:
-      44 (0%)<br />
+      Adventure: 2689 (26%)<br />Events: 2320 (22%)<br />Daily Activity: 1680
+      (16%)<br />Quests: 1670 (16%)<br />Mail: 1610 (15%)<br />Spiral Abyss: 600
+      (5%)<br />Other: 45 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1537,7 +1537,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2562,7 +2562,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -3017,6 +3017,79 @@
         <tr>
           <td>Name</td>
           <td>Beginner's Protector</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Gorou</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Gorou.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Geo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Hunter's Bow</td>
         </tr>
         <tr>
           <td>Rarity</td>
