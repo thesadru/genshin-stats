@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>31</td>
+    <td>1</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>102</td>
+    <td>104</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,19 +48,19 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1712</td>
+    <td>1719</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1135</td>
+    <td>1138</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>330</td>
+    <td>331</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>130</td>
+    <td>131</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Mona (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+      Ganyu (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Xiao (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
+      Venti (12)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>10614 (rate 503)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>9237835 (rate 18265)</td>
+    <td>0 (rate -100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 2689 (26%)<br />Events: 2320 (22%)<br />Daily Activity: 1680
-      (16%)<br />Quests: 1670 (16%)<br />Mail: 1610 (15%)<br />Spiral Abyss: 600
-      (5%)<br />Other: 45 (0%)<br />
+      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
