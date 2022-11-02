@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>544</td>
+    <td>545</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>577</td>
+    <td>579</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>104</td>
+    <td>105</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1719</td>
+    <td>1722</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1138</td>
+    <td>1140</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>76</td>
+    <td>78</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Ganyu (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+      Yoimiya (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Venti (12)<br />
+      Mona (12)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (12)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>86 (rate -99)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>82553 (rate -99)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Daily Activity: 60 (70%)<br />Adventure: 26 (30%)<br />Events: 0 (0%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
