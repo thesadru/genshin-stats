@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>548</td>
+    <td>551</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>580</td>
+    <td>581</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>242</td>
+    <td>243</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>105</td>
+    <td>108</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1722</td>
+    <td>1739</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1141</td>
+    <td>1142</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>331</td>
+    <td>332</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -155,11 +155,11 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>38.0%</td>
+          <td>41.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>972 (rate -90)</td>
+    <td>1146 (rate -89)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>230405 (rate -97)</td>
+    <td>548647 (rate -94)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (70%)<br />Daily Activity: 180 (19%)<br />Adventure: 71 (7%)<br />Events:
-      40 (4%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Mail: 680 (60%)<br />Daily Activity: 240 (21%)<br />Adventure: 155
+      (14%)<br />Events: 40 (3%)<br />Quests: 30 (2%)<br />Other: 1 (0%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
