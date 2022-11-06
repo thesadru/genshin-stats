@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>5</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Sweet Madame</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>551</td>
+    <td>552</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>581</td>
+    <td>582</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1739</td>
+    <td>1742</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>131</td>
+    <td>132</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -376,16 +376,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1146 (rate -89)</td>
+    <td>1227 (rate -88)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>548647 (rate -94)</td>
+    <td>700248 (rate -92)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (60%)<br />Daily Activity: 240 (21%)<br />Adventure: 155
+      Mail: 680 (56%)<br />Daily Activity: 300 (25%)<br />Adventure: 176
       (14%)<br />Events: 40 (3%)<br />Quests: 30 (2%)<br />Other: 1 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
@@ -2558,7 +2558,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
