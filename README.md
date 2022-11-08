@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>583</td>
+    <td>584</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1142</td>
+    <td>1144</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1322 (rate -87)</td>
+    <td>1388 (rate -87)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>786584 (rate -91)</td>
+    <td>838674 (rate -91)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (52%)<br />Daily Activity: 360 (28%)<br />Adventure: 210
-      (15%)<br />Events: 40 (3%)<br />Quests: 30 (2%)<br />Other: 2 (0%)<br />Spiral
+      Mail: 680 (49%)<br />Daily Activity: 420 (31%)<br />Adventure: 215
+      (16%)<br />Events: 40 (2%)<br />Quests: 30 (2%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
