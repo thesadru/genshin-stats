@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>585</td>
+    <td>586</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1144</td>
+    <td>1145</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1458 (rate -86)</td>
+    <td>1523 (rate -85)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>927773 (rate -90)</td>
+    <td>991517 (rate -89)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (47%)<br />Daily Activity: 480 (33%)<br />Adventure: 225
-      (16%)<br />Events: 40 (2%)<br />Quests: 30 (2%)<br />Other: 3 (0%)<br />Spiral
+      Mail: 680 (45%)<br />Daily Activity: 540 (36%)<br />Adventure: 230
+      (16%)<br />Events: 40 (2%)<br />Quests: 30 (1%)<br />Other: 3 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -2631,7 +2631,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2850,7 +2850,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
