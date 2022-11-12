@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>587</td>
+    <td>588</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1748</td>
+    <td>1756</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1147</td>
+    <td>1149</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>767</td>
+    <td>768</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1706 (rate -84)</td>
+    <td>2297 (rate -78)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1185458 (rate -87)</td>
+    <td>1652499 (rate -82)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 700 (42%)<br />Daily Activity: 600 (36%)<br />Adventure: 283
-      (16%)<br />Quests: 80 (4%)<br />Events: 40 (2%)<br />Other: 3 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Mail: 700 (31%)<br />Daily Activity: 660 (29%)<br />Events: 460 (21%)<br />Adventure:
+      314 (13%)<br />Quests: 160 (6%)<br />Other: 3 (0%)<br />Spiral Abyss: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
