@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>560</td>
+    <td>573</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>589</td>
+    <td>590</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>243</td>
+    <td>244</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1762</td>
+    <td>1763</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
-    <td>136</td>
+    <td>137</td>
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
@@ -227,7 +227,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>97.3%</td>
+          <td>97.4%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2609 (rate -75)</td>
+    <td>2796 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1951758 (rate -79)</td>
+    <td>2035816 (rate -78)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 720 (28%)<br />Mail: 700 (27%)<br />Events: 460 (18%)<br />Adventure:
-      446 (17%)<br />Quests: 280 (10%)<br />Other: 3 (0%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Daily Activity: 780 (28%)<br />Mail: 700 (26%)<br />Adventure: 573
+      (20%)<br />Events: 460 (16%)<br />Quests: 280 (10%)<br />Other: 3 (0%)<br />Spiral
+      Abyss: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1201,6 +1201,81 @@
     </td>
   </tr>
 </table>
+<h3>Xingqiu</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>3</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>
+            4 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />
+          </td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Favonius Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Fischl</h3>
 <table>
   <tr>
@@ -1345,81 +1420,6 @@
         <tr>
           <td>Refinement</td>
           <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Xingqiu</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Zephyrus.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>9</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>
-            4 x Emblem of Severed Fate<br />1 x Tenacity of the Millelith<br />
-          </td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Favonius Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1679,7 +1679,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
