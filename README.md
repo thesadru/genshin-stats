@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>590</td>
+    <td>591</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1763</td>
+    <td>1764</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>82</td>
+    <td>83</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2796 (rate -73)</td>
+    <td>2864 (rate -73)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2035816 (rate -78)</td>
+    <td>2180025 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 780 (28%)<br />Mail: 700 (26%)<br />Adventure: 573
-      (20%)<br />Events: 460 (16%)<br />Quests: 280 (10%)<br />Other: 3 (0%)<br />Spiral
+      Daily Activity: 840 (30%)<br />Mail: 700 (25%)<br />Adventure: 580
+      (20%)<br />Events: 460 (16%)<br />Quests: 280 (9%)<br />Other: 4 (0%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -729,8 +729,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x Maiden
-            Beloved<br />
+            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x Crimson
+            Witch of Flames<br />
           </td>
         </tr>
         <tr>
@@ -1128,6 +1128,79 @@
     </td>
   </tr>
 </table>
+<h3>Jean</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>Gunnhildr's Legacy</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Prototype Rancour</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Beidou</h3>
 <table>
   <tr>
@@ -1352,79 +1425,6 @@
     </td>
   </tr>
 </table>
-<h3>Jean</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Proto.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>9</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Viridescent Venerer<br />1 x Wanderer's Troupe<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>Gunnhildr's Legacy</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Prototype Rancour</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Diona</h3>
 <table>
   <tr>
@@ -1606,7 +1606,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1760,10 +1760,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            2 x Archaic Petra<br />2 x Noblesse Oblige<br />1 x Bloodstained
-            Chivalry<br />
-          </td>
+          <td></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -2221,7 +2218,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>20</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Refinement</td>
