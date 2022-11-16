@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>573</td>
+    <td>576</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>591</td>
+    <td>592</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1764</td>
+    <td>1767</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1150</td>
+    <td>1153</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>336</td>
+    <td>337</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -261,133 +261,29 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>770</td>
+    <td>772</td>
   </tr>
   <tr>
     <td>Visitors</td>
     <td>6</td>
   </tr>
 </table>
-<h2>Spiral Abyss</h2>
-<table>
-  <tr>
-    <td>Season</td>
-    <td>56</td>
-  </tr>
-  <tr>
-    <td>Total Battles</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>Total Wins</td>
-    <td>12</td>
-  </tr>
-  <tr>
-    <td>Max Floor</td>
-    <td>12-3</td>
-  </tr>
-  <tr>
-    <td>Total Stars</td>
-    <td>36</td>
-  </tr>
-  <tr>
-    <td>Most Played Characters</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
-        ,
-        height="18"
-      />
-      Mona (12)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (12)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Defeats</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (81)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Strongest Single Strike</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (146065)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Most Damage Taken</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (88444)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Bursts Unleashed</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (24)<br />
-    </td>
-  </tr>
-  <tr>
-    <td>Elemental Skills Cast</td>
-    <td>
-      <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (67)<br />
-    </td>
-  </tr>
-</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2864 (rate -73)</td>
+    <td>3297 (rate -69)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2180025 (rate -77)</td>
+    <td>2649260 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 840 (30%)<br />Mail: 700 (25%)<br />Adventure: 580
-      (20%)<br />Events: 460 (16%)<br />Quests: 280 (9%)<br />Other: 4 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />
+      Daily Activity: 900 (28%)<br />Events: 760 (24%)<br />Mail: 700 (21%)<br />Adventure:
+      651 (19%)<br />Quests: 280 (8%)<br />Other: 6 (0%)<br />Spiral Abyss: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -944,7 +840,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
