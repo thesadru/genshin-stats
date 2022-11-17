@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>576</td>
+    <td>579</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>592</td>
+    <td>593</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>110</td>
+    <td>111</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1767</td>
+    <td>1771</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1153</td>
+    <td>1154</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>42.0%</td>
+          <td>44.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -268,21 +268,125 @@
     <td>6</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>58</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>11</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>10</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>12-1</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>30</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (10)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (10)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (10)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      Cyno (10)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (44)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (102872)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        ,
+        height="18"
+      />
+      Cyno (41511)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (29)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (71)<br />
+    </td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3297 (rate -69)</td>
+    <td>4560 (rate -57)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2649260 (rate -72)</td>
+    <td>3945486 (rate -58)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 900 (28%)<br />Events: 760 (24%)<br />Mail: 700 (21%)<br />Adventure:
-      651 (19%)<br />Quests: 280 (8%)<br />Other: 6 (0%)<br />Spiral Abyss: 0
+      Events: 1390 (31%)<br />Daily Activity: 960 (22%)<br />Mail: 700 (16%)<br />Adventure:
+      694 (15%)<br />Spiral Abyss: 500 (10%)<br />Quests: 310 (6%)<br />Other: 6
       (0%)<br />
     </td>
   </tr>
@@ -990,7 +1094,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1502,7 +1606,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1721,7 +1825,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
