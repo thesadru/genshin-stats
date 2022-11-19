@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>581</td>
+    <td>582</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>594</td>
+    <td>596</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>41</td>
+    <td>42</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>111</td>
+    <td>112</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1771</td>
+    <td>1774</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1154</td>
+    <td>1156</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -179,7 +179,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>95.5%</td>
+          <td>97.3%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Xiao (10)<br /><img
+      Ganyu (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      Cyno (10)<br />
+      Cyno (10)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (10)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4800 (rate -55)</td>
+    <td>4914 (rate -54)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4363501 (rate -54)</td>
+    <td>4574134 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1480 (31%)<br />Daily Activity: 1020 (22%)<br />Mail: 720 (16%)<br />Adventure:
-      704 (14%)<br />Spiral Abyss: 500 (10%)<br />Quests: 370 (7%)<br />Other: 6
-      (0%)<br />
+      Events: 1480 (31%)<br />Daily Activity: 1080 (22%)<br />Adventure: 728
+      (15%)<br />Mail: 720 (14%)<br />Spiral Abyss: 500 (10%)<br />Quests: 400
+      (8%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1094,7 +1094,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1425,6 +1425,79 @@
     </td>
   </tr>
 </table>
+<h3>Qiqi</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>2</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>4 x Maiden Beloved<br />1 x Gladiator's Finale<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Sacrificial Sword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>2</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Diona</h3>
 <table>
   <tr>
@@ -1493,79 +1566,6 @@
         <tr>
           <td>Refinement</td>
           <td>4</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Qiqi</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qiqi.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Fossil.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>2</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>4 x Maiden Beloved<br />1 x Gladiator's Finale<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Sacrificial Sword</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>2</td>
         </tr>
       </table>
     </td>
@@ -3160,6 +3160,79 @@
         <tr>
           <td>Name</td>
           <td>Hunter's Bow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Shikanoin Heizou</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Heizo.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Apprentice's Notes</td>
         </tr>
         <tr>
           <td>Rarity</td>
