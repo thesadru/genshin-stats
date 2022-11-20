@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,7 +16,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>582</td>
+    <td>584</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1774</td>
+    <td>1778</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1156</td>
+    <td>1158</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>337</td>
+    <td>338</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>772</td>
+    <td>773</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Raiden Shogun (10)<br /><img
+      Xiao (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (10)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      Cyno (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (10)<br />
+      Cyno (10)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4914 (rate -54)</td>
+    <td>5132 (rate -52)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4574134 (rate -51)</td>
+    <td>4932410 (rate -48)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1480 (31%)<br />Daily Activity: 1080 (22%)<br />Adventure: 728
-      (15%)<br />Mail: 720 (14%)<br />Spiral Abyss: 500 (10%)<br />Quests: 400
+      Events: 1480 (29%)<br />Daily Activity: 1140 (23%)<br />Adventure: 776
+      (16%)<br />Mail: 770 (15%)<br />Spiral Abyss: 500 (9%)<br />Quests: 460
       (8%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
