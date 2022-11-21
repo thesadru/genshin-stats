@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>20</td>
+    <td>21</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>596</td>
+    <td>597</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Raiden Shogun (10)<br /><img
+      Mona (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
         ,
         height="18"
       />
-      Cyno (10)<br />
+      Cyno (10)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (10)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5132 (rate -52)</td>
+    <td>5192 (rate -51)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4932410 (rate -48)</td>
+    <td>4999429 (rate -47)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1480 (29%)<br />Daily Activity: 1140 (23%)<br />Adventure: 776
-      (16%)<br />Mail: 770 (15%)<br />Spiral Abyss: 500 (9%)<br />Quests: 460
+      Events: 1480 (29%)<br />Daily Activity: 1200 (24%)<br />Adventure: 776
+      (15%)<br />Mail: 770 (15%)<br />Spiral Abyss: 500 (9%)<br />Quests: 460
       (8%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
@@ -1606,7 +1606,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
