@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>22</td>
+    <td>23</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>584</td>
+    <td>586</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>598</td>
+    <td>599</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1159</td>
+    <td>1160</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>338</td>
+    <td>339</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -179,7 +179,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>97.3%</td>
+          <td>99.1%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -276,44 +276,44 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>11</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>10</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-1</td>
+    <td>12-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>30</td>
+    <td>35</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
-        ,
-        height="18"
-      />
-      Cyno (10)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (10)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Xiao (10)<br /><img
+      Xiao (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Ganyu (10)<br />
+      Ganyu (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (13)<br />
     </td>
   </tr>
   <tr>
@@ -324,7 +324,7 @@
         ,
         height="18"
       />
-      Xiao (44)<br />
+      Xiao (60)<br />
     </td>
   </tr>
   <tr>
@@ -342,11 +342,11 @@
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Cyno.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Cyno (41511)<br />
+      Yoimiya (46319)<br />
     </td>
   </tr>
   <tr>
@@ -357,7 +357,7 @@
         ,
         height="18"
       />
-      Zhongli (29)<br />
+      Zhongli (36)<br />
     </td>
   </tr>
   <tr>
@@ -368,7 +368,7 @@
         ,
         height="18"
       />
-      Xiao (71)<br />
+      Xiao (102)<br />
     </td>
   </tr>
 </table>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5254 (rate -51)</td>
+    <td>5384 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5070549 (rate -46)</td>
+    <td>5232185 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1480 (29%)<br />Daily Activity: 1260 (24%)<br />Adventure: 778
-      (15%)<br />Mail: 770 (15%)<br />Spiral Abyss: 500 (9%)<br />Quests: 460
+      Events: 1480 (28%)<br />Daily Activity: 1320 (25%)<br />Adventure: 798
+      (15%)<br />Mail: 770 (14%)<br />Spiral Abyss: 550 (10%)<br />Quests: 460
       (8%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
