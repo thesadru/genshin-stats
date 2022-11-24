@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>599</td>
+    <td>600</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1778</td>
+    <td>1781</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>44.0%</td>
+          <td>45.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>773</td>
+    <td>774</td>
   </tr>
   <tr>
     <td>Visitors</td>
@@ -294,16 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
       Zhongli (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5384 (rate -49)</td>
+    <td>5455 (rate -49)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5232185 (rate -45)</td>
+    <td>5351176 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1480 (28%)<br />Daily Activity: 1320 (25%)<br />Adventure: 798
-      (15%)<br />Mail: 770 (14%)<br />Spiral Abyss: 550 (10%)<br />Quests: 460
+      Events: 1480 (28%)<br />Daily Activity: 1380 (26%)<br />Adventure: 809
+      (14%)<br />Mail: 770 (14%)<br />Spiral Abyss: 550 (10%)<br />Quests: 460
       (8%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
@@ -1425,6 +1425,79 @@
     </td>
   </tr>
 </table>
+<h3>Diona</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Cryo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>9</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Noblesse Oblige<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Fading Twilight</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>60</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>4</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Qiqi</h3>
 <table>
   <tr>
@@ -1493,79 +1566,6 @@
         <tr>
           <td>Refinement</td>
           <td>2</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Diona</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Fallensun.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Cryo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>8</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>5 x Noblesse Oblige<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Fading Twilight</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>60</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>4</td>
         </tr>
       </table>
     </td>
@@ -3070,7 +3070,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
