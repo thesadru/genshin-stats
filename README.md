@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>600</td>
+    <td>601</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1781</td>
+    <td>1782</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
       </table>
     </td>
@@ -299,16 +299,16 @@
         height="18"
       />
       Zhongli (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5455 (rate -49)</td>
+    <td>5582 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5351176 (rate -43)</td>
+    <td>5612040 (rate -41)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1480 (28%)<br />Daily Activity: 1380 (26%)<br />Adventure: 809
-      (14%)<br />Mail: 770 (14%)<br />Spiral Abyss: 550 (10%)<br />Quests: 460
+      Events: 1540 (28%)<br />Daily Activity: 1440 (26%)<br />Adventure: 816
+      (15%)<br />Mail: 770 (14%)<br />Spiral Abyss: 550 (9%)<br />Quests: 460
       (8%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
@@ -1606,7 +1606,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
