@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>601</td>
+    <td>602</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Mona (13)<br />
+      Xiao (13)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5582 (rate -47)</td>
+    <td>5942 (rate -44)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5612040 (rate -41)</td>
+    <td>5721630 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1540 (28%)<br />Daily Activity: 1440 (26%)<br />Adventure: 816
-      (15%)<br />Mail: 770 (14%)<br />Spiral Abyss: 550 (9%)<br />Quests: 460
-      (8%)<br />Other: 6 (0%)<br />
+      Events: 1540 (26%)<br />Daily Activity: 1500 (26%)<br />Mail: 1070
+      (19%)<br />Adventure: 816 (13%)<br />Spiral Abyss: 550 (9%)<br />Quests:
+      460 (7%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
 </table>
