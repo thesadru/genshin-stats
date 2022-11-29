@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>28</td>
+    <td>29</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>604</td>
+    <td>605</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1161</td>
+    <td>1162</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Zhongli (13)<br /><img
+      Raiden Shogun (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Mona (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (13)<br />
+      Zhongli (13)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6440 (rate -39)</td>
+    <td>6565 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6061078 (rate -36)</td>
+    <td>6185850 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1840 (29%)<br />Daily Activity: 1620 (26%)<br />Mail: 1130
-      (18%)<br />Adventure: 834 (12%)<br />Spiral Abyss: 550 (8%)<br />Quests:
+      Events: 1880 (29%)<br />Daily Activity: 1680 (26%)<br />Mail: 1150
+      (18%)<br />Adventure: 839 (12%)<br />Spiral Abyss: 550 (8%)<br />Quests:
       460 (7%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
@@ -944,7 +944,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
