@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>605</td>
+    <td>606</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,6 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -303,17 +313,7 @@
         ,
         height="18"
       />
-      Xiao (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (13)<br />
+      Xiao (13)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>6565 (rate -38)</td>
+    <td>6705 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>6185850 (rate -35)</td>
+    <td>6345409 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1880 (29%)<br />Daily Activity: 1680 (26%)<br />Mail: 1150
-      (18%)<br />Adventure: 839 (12%)<br />Spiral Abyss: 550 (8%)<br />Quests:
-      460 (7%)<br />Other: 6 (0%)<br />
+      Events: 1920 (29%)<br />Daily Activity: 1740 (26%)<br />Mail: 1190
+      (18%)<br />Adventure: 839 (13%)<br />Spiral Abyss: 550 (8%)<br />Quests:
+      460 (6%)<br />Other: 6 (0%)<br />
     </td>
   </tr>
 </table>
@@ -1090,7 +1090,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
