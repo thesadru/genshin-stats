@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>586</td>
+    <td>587</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>607</td>
+    <td>608</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,11 +294,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
-        ,
-        height="18"
-      />
-      Mona (13)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
@@ -313,7 +308,12 @@
         ,
         height="18"
       />
-      Ganyu (13)<br />
+      Ganyu (13)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (13)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>105 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>137351 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Daily Activity: 60 (58%)<br />Events: 40 (38%)<br />Adventure: 5 (4%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2628,7 +2627,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
