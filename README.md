@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>608</td>
+    <td>609</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
       </table>
     </td>
@@ -380,7 +380,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>137351 (rate -97)</td>
+    <td>268404 (rate -95)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -1751,7 +1751,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>6</td>
+          <td>7</td>
         </tr>
         <tr>
           <td>Constellation</td>
