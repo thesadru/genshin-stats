@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>4</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Sweet Madame</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>610</td>
+    <td>612</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -376,17 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>125 (rate -98)</td>
+    <td>755 (rate -89)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>235104 (rate -96)</td>
+    <td>520021 (rate -91)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 60 (48%)<br />Events: 40 (32%)<br />Mail: 20 (16%)<br />Adventure:
-      5 (4%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Events: 260 (35%)<br />Daily Activity: 240 (32%)<br />Mail: 220 (30%)<br />Quests:
+      30 (3%)<br />Adventure: 5 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -750,7 +751,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -803,9 +804,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>
-            4 x Tenacity of the Millelith<br />1 x Bloodstained Chivalry<br />
-          </td>
+          <td>4 x Tenacity of the Millelith<br />1 x Noblesse Oblige<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -878,7 +877,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Emblem of Severed Fate<br /></td>
+          <td>4 x Emblem of Severed Fate<br />1 x Gladiator's Finale<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1613,7 +1612,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>5 x Noblesse Oblige<br /></td>
+          <td>4 x Noblesse Oblige<br />1 x Bloodstained Chivalry<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
