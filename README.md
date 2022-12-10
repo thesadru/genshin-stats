@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>591</td>
+    <td>594</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>615</td>
+    <td>616</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,48 +272,48 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>58</td>
+    <td>59</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>15</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>13</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>12-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>35</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Xiao (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (13)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (13)<br /><img
+      Yoimiya (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Mona (13)<br />
+      Mona (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (11)<br />
     </td>
   </tr>
   <tr>
@@ -324,40 +324,40 @@
         ,
         height="18"
       />
-      Xiao (60)<br />
+      Xiao (52)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Mona (102872)<br />
+      Raiden Shogun (114650)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Yoimiya (46319)<br />
+      Raiden Shogun (63069)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Zhongli (36)<br />
+      Ganyu (24)<br />
     </td>
   </tr>
   <tr>
@@ -368,7 +368,7 @@
         ,
         height="18"
       />
-      Xiao (102)<br />
+      Xiao (100)<br />
     </td>
   </tr>
 </table>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2487 (rate -65)</td>
+    <td>2878 (rate -60)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>876657 (rate -86)</td>
+    <td>1260975 (rate -80)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1480 (60%)<br />Daily Activity: 480 (20%)<br />Events: 400 (16%)<br />Quests:
-      90 (3%)<br />Adventure: 32 (1%)<br />Other: 5 (0%)<br />Spiral Abyss: 0
+      Mail: 1480 (52%)<br />Daily Activity: 540 (19%)<br />Events: 460 (16%)<br />Spiral
+      Abyss: 250 (9%)<br />Quests: 90 (3%)<br />Adventure: 52 (1%)<br />Other: 6
       (0%)<br />
     </td>
   </tr>
@@ -1750,7 +1750,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1904,7 +1904,7 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>5 x Desert Pavilion Chronicle<br /></td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -1924,7 +1924,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>60</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
