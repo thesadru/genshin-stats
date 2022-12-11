@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>594</td>
+    <td>604</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>616</td>
+    <td>617</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>114</td>
+    <td>117</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1787</td>
+    <td>1795</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1163</td>
+    <td>1170</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>83</td>
+    <td>84</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>45.0%</td>
+          <td>47.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -276,11 +276,11 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>18</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>11</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Max Floor</td>
@@ -288,7 +288,7 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -298,22 +298,22 @@
         ,
         height="18"
       />
-      Yoimiya (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+      Yoimiya (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Mona (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (11)<br /><img
+      Ganyu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (11)<br />
+      Raiden Shogun (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (12)<br />
     </td>
   </tr>
   <tr>
@@ -346,18 +346,18 @@
         ,
         height="18"
       />
-      Raiden Shogun (63069)<br />
+      Raiden Shogun (98735)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Ganyu (24)<br />
+      Raiden Shogun (27)<br />
     </td>
   </tr>
   <tr>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2878 (rate -60)</td>
+    <td>3781 (rate -47)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1260975 (rate -80)</td>
+    <td>1823780 (rate -71)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1480 (52%)<br />Daily Activity: 540 (19%)<br />Events: 460 (16%)<br />Spiral
-      Abyss: 250 (9%)<br />Quests: 90 (3%)<br />Adventure: 52 (1%)<br />Other: 6
-      (0%)<br />
+      Mail: 1740 (47%)<br />Daily Activity: 600 (16%)<br />Events: 520 (14%)<br />Spiral
+      Abyss: 400 (11%)<br />Quests: 290 (7%)<br />Adventure: 218 (5%)<br />Other:
+      13 (0%)<br />
     </td>
   </tr>
 </table>
@@ -606,7 +606,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
