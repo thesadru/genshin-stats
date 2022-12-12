@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>604</td>
+    <td>608</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>617</td>
+    <td>618</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>117</td>
+    <td>119</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1795</td>
+    <td>1803</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1170</td>
+    <td>1175</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>339</td>
+    <td>340</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -227,7 +227,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>97.7%</td>
+          <td>97.8%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -299,16 +299,16 @@
         height="18"
       />
       Yoimiya (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3781 (rate -47)</td>
+    <td>4279 (rate -41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1823780 (rate -71)</td>
+    <td>2031697 (rate -68)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1740 (47%)<br />Daily Activity: 600 (16%)<br />Events: 520 (14%)<br />Spiral
-      Abyss: 400 (11%)<br />Quests: 290 (7%)<br />Adventure: 218 (5%)<br />Other:
-      13 (0%)<br />
+      Mail: 1940 (46%)<br />Daily Activity: 660 (16%)<br />Events: 520 (13%)<br />Spiral
+      Abyss: 400 (9%)<br />Adventure: 375 (8%)<br />Quests: 370 (8%)<br />Other:
+      14 (0%)<br />
     </td>
   </tr>
 </table>
