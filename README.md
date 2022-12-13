@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>618</td>
+    <td>619</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1803</td>
+    <td>1804</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1175</td>
+    <td>1176</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -191,7 +191,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>91.1%</td>
+          <td>91.8%</td>
         </tr>
         <tr>
           <td>Offering</td>
@@ -294,21 +294,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (14)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4279 (rate -41)</td>
+    <td>4676 (rate -35)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2031697 (rate -68)</td>
+    <td>2128831 (rate -66)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1940 (46%)<br />Daily Activity: 660 (16%)<br />Events: 520 (13%)<br />Spiral
-      Abyss: 400 (9%)<br />Adventure: 375 (8%)<br />Quests: 370 (8%)<br />Other:
+      Mail: 2140 (46%)<br />Daily Activity: 720 (16%)<br />Events: 640 (14%)<br />Spiral
+      Abyss: 400 (9%)<br />Adventure: 392 (8%)<br />Quests: 370 (7%)<br />Other:
       14 (0%)<br />
     </td>
   </tr>
@@ -1088,7 +1088,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
