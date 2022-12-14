@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>619</td>
+    <td>620</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,16 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
       Raiden Shogun (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4676 (rate -35)</td>
+    <td>4936 (rate -32)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2128831 (rate -66)</td>
+    <td>2208713 (rate -65)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2140 (46%)<br />Daily Activity: 720 (16%)<br />Events: 640 (14%)<br />Spiral
-      Abyss: 400 (9%)<br />Adventure: 392 (8%)<br />Quests: 370 (7%)<br />Other:
+      Mail: 2340 (48%)<br />Daily Activity: 780 (16%)<br />Events: 640 (13%)<br />Spiral
+      Abyss: 400 (9%)<br />Adventure: 392 (7%)<br />Quests: 370 (7%)<br />Other:
       14 (0%)<br />
     </td>
   </tr>
@@ -1604,7 +1604,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1896,7 +1896,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1924,7 +1924,7 @@
         </tr>
         <tr>
           <td>Level</td>
-          <td>80</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
