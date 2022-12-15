@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>620</td>
+    <td>621</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,11 +294,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -309,6 +304,11 @@
         height="18"
       />
       Yoimiya (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
@@ -376,16 +376,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4936 (rate -32)</td>
+    <td>4996 (rate -31)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2208713 (rate -65)</td>
+    <td>2277635 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (48%)<br />Daily Activity: 780 (16%)<br />Events: 640 (13%)<br />Spiral
+      Mail: 2340 (47%)<br />Daily Activity: 840 (17%)<br />Events: 640 (13%)<br />Spiral
       Abyss: 400 (9%)<br />Adventure: 392 (7%)<br />Quests: 370 (7%)<br />Other:
       14 (0%)<br />
     </td>
