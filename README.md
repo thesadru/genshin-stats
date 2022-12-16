@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>15</td>
+    <td>16</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Adventurer's Experience</td>
+    <td>5 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>608</td>
+    <td>610</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>621</td>
+    <td>622</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1804</td>
+    <td>1805</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -294,16 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
       Yoimiya (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4996 (rate -31)</td>
+    <td>5508 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2277635 (rate -64)</td>
+    <td>2623668 (rate -59)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (47%)<br />Daily Activity: 840 (17%)<br />Events: 640 (13%)<br />Spiral
-      Abyss: 400 (9%)<br />Adventure: 392 (7%)<br />Quests: 370 (7%)<br />Other:
-      14 (0%)<br />
+      Mail: 2340 (43%)<br />Events: 1060 (20%)<br />Daily Activity: 900 (17%)<br />Adventure:
+      424 (7%)<br />Spiral Abyss: 400 (7%)<br />Quests: 370 (6%)<br />Other: 14
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -942,7 +942,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
