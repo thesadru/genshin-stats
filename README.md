@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>622</td>
+    <td>624</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>119</td>
+    <td>120</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1176</td>
+    <td>1177</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
       </table>
     </td>
@@ -294,16 +294,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (14)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        ,
+        height="18"
+      />
+      Yoimiya (14)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>5508 (rate -24)</td>
+    <td>5573 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2623668 (rate -59)</td>
+    <td>2894486 (rate -55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2340 (43%)<br />Events: 1060 (20%)<br />Daily Activity: 900 (17%)<br />Adventure:
-      424 (7%)<br />Spiral Abyss: 400 (7%)<br />Quests: 370 (6%)<br />Other: 14
+      Mail: 2340 (42%)<br />Events: 1060 (20%)<br />Daily Activity: 960 (18%)<br />Adventure:
+      429 (7%)<br />Spiral Abyss: 400 (7%)<br />Quests: 370 (6%)<br />Other: 14
       (0%)<br />
     </td>
   </tr>
@@ -1896,7 +1896,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
