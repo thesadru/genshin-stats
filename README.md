@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>613</td>
+    <td>615</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>629</td>
+    <td>631</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>120</td>
+    <td>124</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1806</td>
+    <td>1814</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1178</td>
+    <td>1179</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>340</td>
+    <td>342</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>84</td>
+    <td>85</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>47.0%</td>
+          <td>48.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>7075 (rate -2)</td>
+    <td>7367 (rate 1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4999223 (rate -22)</td>
+    <td>5249387 (rate -18)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2380 (34%)<br />Events: 2040 (29%)<br />Daily Activity: 1320
-      (19%)<br />Adventure: 461 (7%)<br />Spiral Abyss: 400 (5%)<br />Quests:
-      370 (5%)<br />Other: 104 (1%)<br />
+      Mail: 2420 (33%)<br />Events: 2040 (28%)<br />Daily Activity: 1440
+      (20%)<br />Adventure: 532 (8%)<br />Quests: 430 (5%)<br />Spiral Abyss:
+      400 (5%)<br />Other: 105 (1%)<br />
     </td>
   </tr>
 </table>
@@ -1677,7 +1677,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1969,7 +1969,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
