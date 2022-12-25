@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>631</td>
+    <td>632</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -380,7 +380,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>5249387 (rate -18)</td>
+    <td>5274538 (rate -18)</td>
   </tr>
   <tr>
     <td>Categories</td>
