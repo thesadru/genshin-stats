@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>620</td>
+    <td>621</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>650</td>
+    <td>651</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -159,7 +159,7 @@
         </tr>
         <tr>
           <td>Reputation</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
       </table>
     </td>
@@ -272,11 +272,11 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>60</td>
+    <td>61</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Total Wins</td>
@@ -288,43 +288,43 @@
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Jean (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (9)<br /><img
+      Venti (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Ganyu (9)<br />
+      Ganyu (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (9)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Ganyu (33)<br />
+      Xiao (48)<br />
     </td>
   </tr>
   <tr>
@@ -335,29 +335,29 @@
         ,
         height="18"
       />
-      Mona (153896)<br />
+      Mona (88792)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Ganyu (53503)<br />
+      Yoimiya (47638)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Zhongli (21)<br />
+      Venti (22)<br />
     </td>
   </tr>
   <tr>
@@ -368,7 +368,7 @@
         ,
         height="18"
       />
-      Xiao (53)<br />
+      Xiao (71)<br />
     </td>
   </tr>
 </table>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1250 (rate -85)</td>
+    <td>1730 (rate -79)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1139374 (rate -82)</td>
+    <td>1669692 (rate -74)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 480 (39%)<br />Events: 420 (34%)<br />Mail: 340 (27%)<br />Adventure:
-      10 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Daily Activity: 540 (32%)<br />Events: 420 (25%)<br />Spiral Abyss: 400
+      (23%)<br />Mail: 340 (19%)<br />Adventure: 30 (1%)<br />Quests: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
