@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>621</td>
+    <td>622</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>652</td>
+    <td>653</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -294,21 +294,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
         ,
         height="18"
       />
-      Mona (9)<br /><img
+      Venti (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
       Xiao (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Raiden Shogun (9)<br /><img
+      Zhongli (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1790 (rate -78)</td>
+    <td>1855 (rate -78)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1965285 (rate -69)</td>
+    <td>2030234 (rate -68)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (34%)<br />Events: 420 (24%)<br />Spiral Abyss: 400
-      (23%)<br />Mail: 340 (18%)<br />Adventure: 30 (1%)<br />Quests: 0 (0%)<br />Other:
+      Daily Activity: 660 (36%)<br />Events: 420 (23%)<br />Spiral Abyss: 400
+      (22%)<br />Mail: 340 (18%)<br />Adventure: 35 (1%)<br />Quests: 0 (0%)<br />Other:
       0 (0%)<br />
     </td>
   </tr>
