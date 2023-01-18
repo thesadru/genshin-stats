@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>17</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>622</td>
+    <td>624</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>653</td>
+    <td>654</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>124</td>
+    <td>126</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1815</td>
+    <td>1821</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1179</td>
+    <td>1180</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>85</td>
+    <td>86</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>48.0%</td>
+          <td>49.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1855 (rate -78)</td>
+    <td>1964 (rate -76)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2030234 (rate -68)</td>
+    <td>2087238 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 660 (36%)<br />Events: 420 (23%)<br />Spiral Abyss: 400
-      (22%)<br />Mail: 340 (18%)<br />Adventure: 35 (1%)<br />Quests: 0 (0%)<br />Other:
+      Daily Activity: 720 (37%)<br />Events: 420 (22%)<br />Spiral Abyss: 400
+      (20%)<br />Mail: 360 (18%)<br />Adventure: 63 (3%)<br />Other: 1 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -1896,7 +1896,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2042,7 +2042,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
