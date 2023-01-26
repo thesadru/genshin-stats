@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -16,15 +16,15 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>627</td>
+    <td>629</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>661</td>
+    <td>662</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>44</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>126</td>
+    <td>129</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>86</td>
+    <td>87</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3645 (rate -56)</td>
+    <td>4116 (rate -51)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3219063 (rate -49)</td>
+    <td>3822243 (rate -40)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1140 (32%)<br />Mail: 1080 (30%)<br />Events: 840 (24%)<br />Spiral
-      Abyss: 400 (10%)<br />Adventure: 163 (4%)<br />Other: 22 (0%)<br />Quests:
-      0 (0%)<br />
+      Daily Activity: 1200 (30%)<br />Events: 1180 (29%)<br />Mail: 1080
+      (27%)<br />Spiral Abyss: 400 (9%)<br />Adventure: 183 (4%)<br />Quests: 50
+      (1%)<br />Other: 23 (0%)<br />
     </td>
   </tr>
 </table>
@@ -2407,7 +2407,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3064,7 +3064,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3137,7 +3137,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3580,6 +3580,79 @@
         <tr>
           <td>Constellation</td>
           <td>1</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Beginner's Protector</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Yaoyao</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yaoyao.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Gewalt.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Dendro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
         </tr>
         <tr>
           <td>Artifacts</td>
