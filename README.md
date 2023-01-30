@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>665</td>
+    <td>666</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,92 +272,92 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>10</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>9</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>10-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>26</td>
+    <td>18</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Venti (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
-        ,
-        height="18"
-      />
-      Xiao (9)<br /><img
+      Hu Tao (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+      Zhongli (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Ganyu (9)<br />
+      Yoimiya (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        ,
+        height="18"
+      />
+      Jean (6)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Xiao (48)<br />
+      Ganyu (25)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Mona (88792)<br />
+      Raiden Shogun (129559)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Yoimiya (47638)<br />
+      Hu Tao (36046)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Venti.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Venti (22)<br />
+      Ganyu (12)<br />
     </td>
   </tr>
   <tr>
@@ -368,7 +368,7 @@
         ,
         height="18"
       />
-      Xiao (71)<br />
+      Xiao (26)<br />
     </td>
   </tr>
 </table>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4410 (rate -47)</td>
+    <td>4770 (rate -43)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4061919 (rate -36)</td>
+    <td>4395119 (rate -31)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1380 (32%)<br />Events: 1180 (27%)<br />Mail: 1080
-      (25%)<br />Spiral Abyss: 400 (9%)<br />Adventure: 297 (6%)<br />Quests: 50
-      (1%)<br />Other: 23 (0%)<br />
+      Daily Activity: 1440 (31%)<br />Events: 1180 (25%)<br />Mail: 1080
+      (23%)<br />Spiral Abyss: 700 (14%)<br />Adventure: 297 (6%)<br />Quests:
+      50 (1%)<br />Other: 23 (0%)<br />
     </td>
   </tr>
 </table>
