@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>30</td>
+    <td>31</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>666</td>
+    <td>667</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>247</td>
+    <td>271</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>42</td>
+    <td>46</td>
   </tr>
 </table>
 
@@ -294,26 +294,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
-        ,
-        height="18"
-      />
-      Hu Tao (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
-      Jean (6)<br />
+      Jean (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
+        ,
+        height="18"
+      />
+      Mona (6)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>4770 (rate -43)</td>
+    <td>4830 (rate -42)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>4395119 (rate -31)</td>
+    <td>4459913 (rate -30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1440 (31%)<br />Events: 1180 (25%)<br />Mail: 1080
-      (23%)<br />Spiral Abyss: 700 (14%)<br />Adventure: 297 (6%)<br />Quests:
+      Daily Activity: 1500 (32%)<br />Events: 1180 (25%)<br />Mail: 1080
+      (22%)<br />Spiral Abyss: 700 (14%)<br />Adventure: 297 (6%)<br />Quests:
       50 (1%)<br />Other: 23 (0%)<br />
     </td>
   </tr>
@@ -1896,7 +1896,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>8</td>
+          <td>9</td>
         </tr>
         <tr>
           <td>Constellation</td>
