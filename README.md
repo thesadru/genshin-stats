@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Fine Enhancement Ore</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>668</td>
+    <td>669</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>271</td>
+    <td>262</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -294,21 +294,21 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
-        ,
-        height="18"
-      />
-      Yoimiya (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
       Jean (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Raiden Shogun (6)<br /><img
+      Xiao (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
+        ,
+        height="18"
+      />
+      Zhongli (6)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -376,18 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>60 (rate -98)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>59799 (rate -98)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Daily Activity: 60 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests:
+      0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
