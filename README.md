@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,15 +20,15 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>673</td>
+    <td>674</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>45</td>
+    <td>46</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>262</td>
+    <td>263</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>137</td>
+    <td>140</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1838</td>
+    <td>1839</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1191</td>
+    <td>1192</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>90</td>
+    <td>91</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>51.0%</td>
+          <td>52.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>575 (rate -88)</td>
+    <td>812 (rate -83)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>588551 (rate -86)</td>
+    <td>1231848 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 300 (53%)<br />Events: 190 (34%)<br />Other: 60 (10%)<br />Mail:
-      20 (3%)<br />Adventure: 5 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Daily Activity: 360 (45%)<br />Events: 350 (44%)<br />Other: 60 (7%)<br />Adventure:
+      22 (2%)<br />Mail: 20 (2%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
@@ -1092,7 +1092,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1238,7 +1238,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>0</td>
+          <td>1</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1457,7 +1457,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -1900,7 +1900,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>3</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Artifacts</td>
@@ -2591,6 +2591,79 @@
     </td>
   </tr>
 </table>
+<h3>Yelan</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yelan.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Hunter's Bow</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Noelle</h3>
 <table>
   <tr>
@@ -2995,7 +3068,7 @@
         </tr>
         <tr>
           <td>Constellation</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Artifacts</td>
