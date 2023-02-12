@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>677</td>
+    <td>678</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,92 +272,92 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>62</td>
+    <td>63</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>6</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>6</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>10-3</td>
+    <td>11-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>18</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Jean (6)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+      Yoimiya (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
         ,
         height="18"
       />
-      Xiao (6)<br /><img
+      Hu Tao (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Zhongli (6)<br /><img
+      Zhongli (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Ganyu (6)<br />
+      Ganyu (8)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
         ,
         height="18"
       />
-      Ganyu (25)<br />
+      Xiao (43)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Mona.png"
         ,
         height="18"
       />
-      Raiden Shogun (129559)<br />
+      Mona (159614)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Yoimiya.png"
         ,
         height="18"
       />
-      Hu Tao (36046)<br />
+      Yoimiya (49343)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
         ,
         height="18"
       />
-      Ganyu (12)<br />
+      Zhongli (19)<br />
     </td>
   </tr>
   <tr>
@@ -368,7 +368,7 @@
         ,
         height="18"
       />
-      Xiao (26)<br />
+      Xiao (53)<br />
     </td>
   </tr>
 </table>
@@ -376,18 +376,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1194 (rate -75)</td>
+    <td>1655 (rate -66)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1588932 (rate -64)</td>
+    <td>2002607 (rate -55)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 540 (46%)<br />Events: 510 (43%)<br />Other: 60 (5%)<br />Adventure:
-      44 (3%)<br />Mail: 40 (3%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Daily Activity: 600 (37%)<br />Events: 510 (31%)<br />Spiral Abyss: 400
+      (25%)<br />Other: 61 (3%)<br />Adventure: 44 (2%)<br />Mail: 40 (2%)<br />Quests:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
@@ -679,7 +679,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -920,7 +920,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Troupe.png"
         />
       </p>
     </td>
@@ -962,11 +962,11 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Elegy for the End</td>
+          <td>The Stringless</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>5</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Level</td>
@@ -974,7 +974,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
       </table>
     </td>
@@ -1339,7 +1339,80 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>3</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<h3>Wanderer</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Anemo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>80</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td>5 x Desert Pavilion Chronicle<br /></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Dodoco Tales</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>90</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
         </tr>
       </table>
     </td>
@@ -1487,7 +1560,7 @@
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>2</td>
+          <td>4</td>
         </tr>
       </table>
     </td>
@@ -1642,79 +1715,6 @@
     </td>
   </tr>
 </table>
-<h3>Wanderer</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Wanderer.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Ludiharpastum.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Anemo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>80</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>9</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td>5 x Desert Pavilion Chronicle<br /></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Dodoco Tales</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>90</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Xiangling</h3>
 <table>
   <tr>
@@ -1788,6 +1788,79 @@
     </td>
   </tr>
 </table>
+<h3>Ningguang</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Geo</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>10</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>6</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>Orchid's Evening Gown</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Eye of Perception</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>70</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>5</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Collei</h3>
 <table>
   <tr>
@@ -1852,79 +1925,6 @@
         <tr>
           <td>Level</td>
           <td>80</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>5</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Ningguang</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ningguang.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Truelens.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Geo</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>9</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>6</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>Orchid's Evening Gown</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Eye of Perception</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>70</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2020,7 +2020,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Hunters.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Widsith.png"
         />
       </p>
     </td>
@@ -2062,15 +2062,15 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Hunter's Bow</td>
+          <td>Elegy for the End</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>1</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>1</td>
+          <td>90</td>
         </tr>
         <tr>
           <td>Refinement</td>
@@ -2372,6 +2372,79 @@
     </td>
   </tr>
 </table>
+<h3>Barbara</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Hydro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>8</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td>Summertime Sparkle</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Apprentice's Notes</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Yanfei</h3>
 <table>
   <tr>
@@ -2445,6 +2518,79 @@
     </td>
   </tr>
 </table>
+<h3>Dori</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Waster Greatsword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Amber</h3>
 <table>
   <tr>
@@ -2501,79 +2647,6 @@
         <tr>
           <td>Name</td>
           <td>Hunter's Bow</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Dori</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>3</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Waster Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -2883,79 +2956,6 @@
     </td>
   </tr>
 </table>
-<h3>Barbara</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Barbara.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Hydro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>20</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>7</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>5</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td>Summertime Sparkle</td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Apprentice's Notes</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
 <h3>Lisa</h3>
 <table>
   <tr>
@@ -3210,7 +3210,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3283,7 +3283,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
