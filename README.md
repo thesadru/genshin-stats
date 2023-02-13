@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>678</td>
+    <td>679</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1845</td>
+    <td>1849</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -227,7 +227,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>97.8%</td>
+          <td>98.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -299,21 +299,21 @@
         height="18"
       />
       Yoimiya (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Hutao.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Qin.png"
         ,
         height="18"
       />
-      Hu Tao (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Zhongli.png"
-        ,
-        height="18"
-      />
-      Zhongli (8)<br /><img
+      Jean (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Ganyu (8)<br />
+      Ganyu (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xiao.png"
+        ,
+        height="18"
+      />
+      Xiao (8)<br />
     </td>
   </tr>
   <tr>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1655 (rate -66)</td>
+    <td>1797 (rate -63)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2002607 (rate -55)</td>
+    <td>2205341 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 600 (37%)<br />Events: 510 (31%)<br />Spiral Abyss: 400
-      (25%)<br />Other: 61 (3%)<br />Adventure: 44 (2%)<br />Mail: 40 (2%)<br />Quests:
+      Daily Activity: 660 (37%)<br />Events: 590 (33%)<br />Spiral Abyss: 400
+      (23%)<br />Other: 63 (3%)<br />Adventure: 44 (2%)<br />Mail: 40 (2%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
@@ -3003,7 +3003,7 @@
         </tr>
         <tr>
           <td>Outfits</td>
-          <td></td>
+          <td>A Sobriquet Under Shade</td>
         </tr>
       </table>
     </td>
