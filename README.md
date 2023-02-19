@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2927 (rate -40)</td>
+    <td>2987 (rate -38)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2885341 (rate -36)</td>
+    <td>2934116 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 960 (33%)<br />Events: 950 (33%)<br />Spiral Abyss: 400
-      (14%)<br />Mail: 360 (12%)<br />Adventure: 133 (4%)<br />Other: 124
+      Daily Activity: 1020 (35%)<br />Events: 950 (32%)<br />Spiral Abyss: 400
+      (13%)<br />Mail: 360 (12%)<br />Adventure: 133 (4%)<br />Other: 124
       (4%)<br />Quests: 0 (0%)<br />
     </td>
   </tr>
@@ -1234,7 +1234,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>2</td>
+          <td>3</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -1299,7 +1299,7 @@
         </tr>
         <tr>
           <td>Element</td>
-          <td>Anemo</td>
+          <td>Dendro</td>
         </tr>
         <tr>
           <td>Level</td>
