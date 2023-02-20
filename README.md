@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>19</td>
+    <td>20</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fisherman's Toast</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>685</td>
+    <td>686</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2987 (rate -38)</td>
+    <td>3047 (rate -37)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2934116 (rate -35)</td>
+    <td>3006948 (rate -33)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Daily Activity: 1020 (35%)<br />Events: 950 (32%)<br />Spiral Abyss: 400
-      (13%)<br />Mail: 360 (12%)<br />Adventure: 133 (4%)<br />Other: 124
+      Daily Activity: 1080 (36%)<br />Events: 950 (32%)<br />Spiral Abyss: 400
+      (13%)<br />Mail: 360 (11%)<br />Adventure: 133 (4%)<br />Other: 124
       (4%)<br />Quests: 0 (0%)<br />
     </td>
   </tr>
@@ -406,7 +406,7 @@
     <td>
       <p align="center">
         <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Homa.png"
         />
       </p>
     </td>
@@ -448,19 +448,19 @@
       <table>
         <tr>
           <td>Name</td>
-          <td>Dragon's Bane</td>
+          <td>Staff of Homa</td>
         </tr>
         <tr>
           <td>Rarity</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Level</td>
-          <td>90</td>
+          <td>80</td>
         </tr>
         <tr>
           <td>Refinement</td>
-          <td>5</td>
+          <td>1</td>
         </tr>
       </table>
     </td>
@@ -509,7 +509,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td>4 x Blizzard Strayer<br />1 x Wanderer's Troupe<br /></td>
+          <td>
+            2 x Gladiator's Finale<br />2 x Blizzard Strayer<br />1 x Wanderer's
+            Troupe<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
@@ -729,8 +732,8 @@
         <tr>
           <td>Artifacts</td>
           <td>
-            2 x Gladiator's Finale<br />1 x Viridescent Venerer<br />2 x Echoes
-            of an Offering<br />
+            2 x Gladiator's Finale<br />2 x Viridescent Venerer<br />1 x
+            Wanderer's Troupe<br />
           </td>
         </tr>
         <tr>
@@ -1242,7 +1245,10 @@
         </tr>
         <tr>
           <td>Artifacts</td>
-          <td></td>
+          <td>
+            2 x Tenacity of the Millelith<br />2 x Heart of Depth<br />1 x
+            Gilded Dreams<br />
+          </td>
         </tr>
         <tr>
           <td>Outfits</td>
