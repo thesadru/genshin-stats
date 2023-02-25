@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -376,17 +376,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3647 (rate -25)</td>
+    <td>3712 (rate -24)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3583364 (rate -20)</td>
+    <td>3657497 (rate -19)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1350 (38%)<br />Daily Activity: 1260 (35%)<br />Spiral Abyss: 400
-      (11%)<br />Mail: 360 (10%)<br />Other: 144 (3%)<br />Adventure: 133
+      Events: 1350 (37%)<br />Daily Activity: 1320 (36%)<br />Spiral Abyss: 400
+      (11%)<br />Mail: 360 (10%)<br />Other: 145 (3%)<br />Adventure: 137
       (3%)<br />Quests: 0 (0%)<br />
     </td>
   </tr>
@@ -2997,7 +2997,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
