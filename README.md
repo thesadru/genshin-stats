@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>689</td>
+    <td>690</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,7 +48,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1858</td>
+    <td>1860</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>53.0%</td>
+          <td>54.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -261,7 +261,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>779</td>
+    <td>780</td>
   </tr>
   <tr>
     <td>Visitors</td>
