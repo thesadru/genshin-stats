@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>635</td>
+    <td>640</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>695</td>
+    <td>696</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>264</td>
+    <td>265</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1860</td>
+    <td>1863</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1201</td>
+    <td>1203</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>343</td>
+    <td>344</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -265,24 +265,25 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
 </table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>790 (rate -79)</td>
+    <td>1221 (rate -68)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>133788 (rate -96)</td>
+    <td>854205 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (84%)<br />Daily Activity: 120 (15%)<br />Adventure: 10 (1%)<br />Events:
-      0 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0 (0%)<br />
+      Mail: 660 (55%)<br />Events: 220 (19%)<br />Daily Activity: 180 (14%)<br />Quests:
+      120 (9%)<br />Adventure: 41 (3%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -2419,6 +2420,79 @@
     </td>
   </tr>
 </table>
+<h3>Dori</h3>
+<table>
+  <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
+          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
+        />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Rarity</td>
+          <td>4</td>
+        </tr>
+        <tr>
+          <td>Element</td>
+          <td>Electro</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>40</td>
+        </tr>
+        <tr>
+          <td>Friendship</td>
+          <td>5</td>
+        </tr>
+        <tr>
+          <td>Constellation</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>Artifacts</td>
+          <td></td>
+        </tr>
+        <tr>
+          <td>Outfits</td>
+          <td></td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Name</td>
+          <td>Waster Greatsword</td>
+        </tr>
+        <tr>
+          <td>Rarity</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Level</td>
+          <td>1</td>
+        </tr>
+        <tr>
+          <td>Refinement</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 <h3>Amber</h3>
 <table>
   <tr>
@@ -2475,79 +2549,6 @@
         <tr>
           <td>Name</td>
           <td>Hunter's Bow</td>
-        </tr>
-        <tr>
-          <td>Rarity</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>1</td>
-        </tr>
-        <tr>
-          <td>Refinement</td>
-          <td>1</td>
-        </tr>
-      </table>
-    </td>
-  </tr>
-</table>
-<h3>Dori</h3>
-<table>
-  <tr>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Dori.png"
-        />
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <img
-          src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Claymore_Aniki.png"
-        />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <table>
-        <tr>
-          <td>Rarity</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Element</td>
-          <td>Electro</td>
-        </tr>
-        <tr>
-          <td>Level</td>
-          <td>40</td>
-        </tr>
-        <tr>
-          <td>Friendship</td>
-          <td>4</td>
-        </tr>
-        <tr>
-          <td>Constellation</td>
-          <td>0</td>
-        </tr>
-        <tr>
-          <td>Artifacts</td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Outfits</td>
-          <td></td>
-        </tr>
-      </table>
-    </td>
-    <td>
-      <table>
-        <tr>
-          <td>Name</td>
-          <td>Waster Greatsword</td>
         </tr>
         <tr>
           <td>Rarity</td>
@@ -3038,7 +3039,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -3111,7 +3112,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>4</td>
+          <td>5</td>
         </tr>
         <tr>
           <td>Constellation</td>
