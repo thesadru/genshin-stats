@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>699</td>
+    <td>700</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,16 +272,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1556 (rate -60)</td>
+    <td>1616 (rate -58)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1177346 (rate -69)</td>
+    <td>1242071 (rate -67)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (44%)<br />Daily Activity: 360 (24%)<br />Events: 320 (21%)<br />Quests:
+      Mail: 680 (43%)<br />Daily Activity: 420 (26%)<br />Events: 320 (20%)<br />Quests:
       120 (7%)<br />Adventure: 76 (4%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
@@ -2017,7 +2017,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>5</td>
+          <td>6</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2309,7 +2309,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>1</td>
+          <td>2</td>
         </tr>
         <tr>
           <td>Constellation</td>
