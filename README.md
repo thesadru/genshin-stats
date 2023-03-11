@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>10</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>701</td>
+    <td>702</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1676 (rate -57)</td>
+    <td>1756 (rate -55)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1317096 (rate -65)</td>
+    <td>1361571 (rate -64)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (41%)<br />Daily Activity: 480 (29%)<br />Events: 320 (19%)<br />Quests:
-      120 (7%)<br />Adventure: 76 (4%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Mail: 700 (40%)<br />Daily Activity: 540 (31%)<br />Events: 320 (19%)<br />Quests:
+      120 (6%)<br />Adventure: 76 (4%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
