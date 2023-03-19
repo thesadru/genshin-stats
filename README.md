@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>18</td>
+    <td>19</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fisherman's Toast</td>
   </tr>
 </table>
 
@@ -16,11 +16,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>640</td>
+    <td>641</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>707</td>
+    <td>708</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -40,7 +40,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>145</td>
+    <td>148</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -48,15 +48,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1864</td>
+    <td>1875</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1204</td>
+    <td>1209</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>344</td>
+    <td>345</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>94</td>
+    <td>96</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -155,7 +155,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>54.0%</td>
+          <td>55.0%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2736 (rate -30)</td>
+    <td>2893 (rate -26)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>2516210 (rate -34)</td>
+    <td>2578388 (rate -32)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1000 (37%)<br />Daily Activity: 840 (31%)<br />Mail: 700 (26%)<br />Quests:
-      120 (4%)<br />Adventure: 76 (2%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 1000 (35%)<br />Daily Activity: 900 (32%)<br />Mail: 720 (24%)<br />Adventure:
+      153 (5%)<br />Quests: 120 (4%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -2090,7 +2090,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>3</td>
+          <td>4</td>
         </tr>
         <tr>
           <td>Constellation</td>
