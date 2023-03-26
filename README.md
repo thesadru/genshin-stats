@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>25</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Hero's Wit</td>
+    <td>3 x Almond Tofu</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>714</td>
+    <td>715</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -48,11 +48,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1878</td>
+    <td>1879</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1209</td>
+    <td>1210</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -227,7 +227,7 @@
       <table>
         <tr>
           <td>Explored</td>
-          <td>98.2%</td>
+          <td>98.3%</td>
         </tr>
         <tr>
           <td>Reputation</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3684 (rate -5)</td>
+    <td>3746 (rate -4)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3261518 (rate -15)</td>
+    <td>3696883 (rate -3)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1420 (39%)<br />Daily Activity: 1260 (35%)<br />Mail: 720 (19%)<br />Adventure:
-      164 (4%)<br />Quests: 120 (3%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
+      Events: 1420 (38%)<br />Daily Activity: 1320 (36%)<br />Mail: 720 (19%)<br />Adventure:
+      166 (4%)<br />Quests: 120 (3%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
@@ -1133,7 +1133,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>7</td>
+          <td>8</td>
         </tr>
         <tr>
           <td>Constellation</td>
@@ -2382,7 +2382,7 @@
         </tr>
         <tr>
           <td>Friendship</td>
-          <td>9</td>
+          <td>10</td>
         </tr>
         <tr>
           <td>Constellation</td>
