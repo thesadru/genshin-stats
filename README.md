@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
