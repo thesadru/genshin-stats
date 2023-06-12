@@ -4,11 +4,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -20,7 +20,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>720</td>
+    <td>721</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -272,17 +272,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>100 (rate -90)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>54000 (rate -48)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      Mail: 100 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0
+      (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
